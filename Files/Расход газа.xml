@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="Windows-1251"?><Graph nodesize="10" vspacing="3" hspacing="20" padding="4" showarrows="true" guid="1BA57468-908A-25C2-F194-CCA7B78DF318" searchurl="https://www.google.com.ua/#output=search%26q=###SEARCH###">
+  <datagroups/>
+  <Nodes>
+    <Node guid="CCA7C3A8DC0B" nodeName="2010-1" nclass="" shape="square" color="13421772" xPos="40" yPos="40" font="Verdana" fontsize="10">
+      <data tclass="печь №2" type="text">271</data>
+      <data tclass="Печь ПАС" type="text">68</data>
+      <data tclass="т/г техн-1" type="text">48</data>
+      <data tclass="т/г обогр-1" type="text">79,5</data>
+      <data tclass="ГИКИ-1" type="text">2,32</data>
+      <data tclass="ЦЕХ №1" type="text">468,82</data>
+      <data tclass="Горна" type="text">140,4</data>
+      <data tclass="Вистра" type="text">32,3</data>
+      <data tclass="т/г техн-3" type="text">62,6</data>
+      <data tclass="ГИКИ-3" type="text">11,97</data>
+      <data tclass="ЦЕХ №3" type="text">247,27</data>
+      <data tclass="Котельная" type="text">48,9</data>
+      <data tclass="М/к №1" type="text">30,8</data>
+      <data tclass="М/К №2" type="text">23,6</data>
+      <data tclass="М/К  №3" type="text">17</data>
+      <data tclass="СКХ" type="text">120,3</data>
+      <data tclass="т/г -МЗЦ" type="text">40</data>
+      <data tclass="ГИКИ -МЗЦ" type="text">3,69</data>
+      <data tclass="МЗЦ" type="text">43,69</data>
+      <data tclass="Механическ" type="text">0,63</data>
+      <data tclass="Инструмен" type="text">1,03</data>
+      <data tclass="ЦЛИТ" type="text">1,7</data>
+      <data tclass="Вспомогат" type="text">3,36</data>
+      <data tclass="Всего" type="text">883,44</data>
+      <data tclass="Товар,т" type="text">288,3</data>
+      <data tclass="Уд.расход" type="text">3,064308012</data>
+    </Node>
+    <Node guid="CCA7C416F145" nodeName="2010-2" nclass="" shape="square" color="13421772" xPos="40" yPos="70" font="Verdana" fontsize="10">
+      <data tclass="печь №2" type="text">260</data>
+      <data tclass="Печь ПАС" type="text">59,7</data>
+      <data tclass="т/г техн-1" type="text">43</data>
+      <data tclass="т/г обогр-1" type="text">59,1</data>
+      <data tclass="ГИКИ-1" type="text">1,76</data>
+      <data tclass="ЦЕХ №1" type="text">423,56</data>
+      <data tclass="Горна" type="text">37,3</data>
+      <data tclass="Вистра" type="text">7,83</data>
+      <data tclass="ГИКИ-3" type="text">9,06</data>
+      <data tclass="ЦЕХ №3" type="text">54,19</data>
+      <data tclass="Котельная" type="text">43,6</data>
+      <data tclass="М/к №1" type="text">12</data>
+      <data tclass="М/К №2" type="text">9</data>
+      <data tclass="М/К  №3" type="text">9</data>
+      <data tclass="СКХ" type="text">73,6</data>
+      <data tclass="т/г -МЗЦ" type="text">23,04</data>
+      <data tclass="ГИКИ -МЗЦ" type="text">2,57</data>
+      <data tclass="МЗЦ" type="text">25,61</data>
+      <data tclass="Инструмен" type="text">0,77</data>
+      <data tclass="ЦЛИТ" type="text">0,68</data>
+      <data tclass="Вспомогат" type="text">1,45</data>
+      <data tclass="Всего" type="text">578,41</data>
+      <data tclass="Товар,т" type="text">272,2</data>
+      <data tclass="Уд.расход" type="text">2,124944893</data>
+    </Node>
+    <Node guid="CCA7C42914B3" nodeName="2010-3" nclass="" shape="square" color="13421772" xPos="40" yPos="100" font="Verdana" fontsize="10">
+      <data tclass="печь №2" type="text">280,8</data>
+      <data tclass="Печь ПАС" type="text">60,4</data>
+      <data tclass="т/г техн-1" type="text">47</data>
+      <data tclass="т/г обогр-1" type="text">34,9</data>
+      <data tclass="ГИКИ-1" type="text">0,66</data>
+      <data tclass="ЦЕХ №1" type="text">423,76</data>
+      <data tclass="т/г техн-3" type="text">45,5</data>
+      <data tclass="ГИКИ-3" type="text">1,85</data>
+      <data tclass="ЦЕХ №3" type="text">47,35</data>
+      <data tclass="Котельная" type="text">32,3</data>
+      <data tclass="М/к №1" type="text">13</data>
+      <data tclass="М/К №2" type="text">8,6</data>
+      <data tclass="М/К  №3" type="text">8,3</data>
+      <data tclass="СКХ" type="text">62,2</data>
+      <data tclass="ГИКИ -МЗЦ" type="text">1</data>
+      <data tclass="МЗЦ" type="text">1</data>
+      <data tclass="Инструмен" type="text">0,62</data>
+      <data tclass="ЦЛИТ" type="text">0,73</data>
+      <data tclass="Вспомогат" type="text">1,35</data>
+      <data tclass="Всего" type="text">535,66</data>
+      <data tclass="Товар,т" type="text">296,2</data>
+      <data tclass="Уд.расход" type="text">1,808440243</data>
+    </Node>
+    <Node guid="CCA7C43482A3" nodeName="2010-4" nclass="" shape="square" color="13421772" xPos="40" yPos="130" font="Verdana" fontsize="10">
+      <data tclass="печь №2" type="text">277</data>
+      <data tclass="Печь ПАС" type="text">55,7</data>
+      <data tclass="т/г техн-1" type="text">34</data>
+      <data tclass="ЦЕХ №1" type="text">366,7</data>
+      <data tclass="т/г техн-3" type="text">28,1</data>
+      <data tclass="ГИКИ-3" type="text">1,58</data>
+      <data tclass="ЦЕХ №3" type="text">29,68</data>
+      <data tclass="Котельная" type="text">1</data>
+      <data tclass="М/к №1" type="text">7,47</data>
+      <data tclass="СКХ" type="text">8,47</data>
+      <data tclass="МЗЦ" type="text">0</data>
+      <data tclass="ЦЛИТ" type="text">0,24</data>
+      <data tclass="Вспомогат" type="text">0,24</data>
+      <data tclass="Всего" type="text">405,09</data>
+      <data tclass="Товар,т" type="text">330</data>
+      <data tclass="Уд.расход" type="text">1,227545455</data>
+    </Node>
+    <Node guid="CCA7C43EF541" nodeName="2010-5" nclass="" shape="square" color="13421772" xPos="40" yPos="160" font="Verdana" fontsize="10">
+      <data tclass="печь №2" type="text">280</data>
+      <data tclass="Печь ПАС" type="text">58</data>
+      <data tclass="т/г техн-1" type="text">7,24</data>
+      <data tclass="ЦЕХ №1" type="text">345,24</data>
+      <data tclass="Горна" type="text">40</data>
+      <data tclass="Вистра" type="text">7</data>
+      <data tclass="т/г техн-3" type="text">20</data>
+      <data tclass="ЦЕХ №3" type="text">67</data>
+      <data tclass="М/к №1" type="text">6,03</data>
+      <data tclass="СКХ" type="text">6,03</data>
+      <data tclass="МЗЦ" type="text">0</data>
+      <data tclass="Вспомогат" type="text">0</data>
+      <data tclass="Всего" type="text">418,27</data>
+      <data tclass="Товар,т" type="text">326</data>
+      <data tclass="Уд.расход" type="text">1,28303681</data>
+    </Node>
+    <Node guid="CCA7C4414E0C" nodeName="2010-6" nclass="" shape="square" color="13421772" xPos="40" yPos="190" font="Verdana" fontsize="10">
+      <data tclass="печь №2" type="text">270,2</data>
+      <data tclass="Печь ПАС" type="text">57</data>
+      <data tclass="ЦЕХ №1" type="text">327,2</data>
+      <data tclass="ЦЕХ №3" type="text">0</data>
+      <data tclass="М/к №1" type="text">1,03</data>
+      <data tclass="СКХ" type="text">1,03</data>
+      <data tclass="МЗЦ" type="text">0</data>
+      <data tclass="Вспомогат" type="text">0</data>
+      <data tclass="Всего" type="text">328,23</data>
+      <data tclass="Товар,т" type="text">287,7</data>
+      <data tclass="Уд.расход" type="text">1,140875912</data>
+    </Node>
+    <Node guid="CCA7C4447585" nodeName="2010-7" nclass="" shape="square" color="13421772" xPos="40" yPos="220" font="Verdana" fontsize="10">
+      <data tclass="печь №2" type="text">280</data>
+      <data tclass="Печь ПАС" type="text">60</data>
+      <data tclass="Голлан -4" type="text">1,16</data>
+      <data tclass="ЦЕХ №1" type="text">341,16</data>
+      <data tclass="ЦЕХ №3" type="text">0</data>
+      <data tclass="СКХ" type="text">0</data>
+      <data tclass="МЗЦ" type="text">0</data>
+      <data tclass="Вспомогат" type="text">0</data>
+      <data tclass="Всего" type="text">341,16</data>
+      <data tclass="Товар,т" type="text">245,7</data>
+      <data tclass="Уд.расход" type="text">1,388522589</data>
+    </Node>
+    <Node guid="CCA7C463295F" nodeName="2010-8" nclass="" shape="square" color="13421772" xPos="40" yPos="250" font="Verdana" fontsize="10">
+      <data tclass="печь №2" type="text">282</data>
+      <data tclass="Печь ПАС" type="text">66</data>
+      <data tclass="Голлан -3" type="text">4,6</data>
+      <data tclass="ЦЕХ №1" type="text">352,6</data>
+      <data tclass="Горна" type="text">63</data>
+      <data tclass="Вистра" type="text">29,8</data>
+      <data tclass="ЦЕХ №3" type="text">92,8</data>
+      <data tclass="СКХ" type="text">0</data>
+      <data tclass="МЗЦ" type="text">0</data>
+      <data tclass="Вспомогат" type="text">0</data>
+      <data tclass="Всего" type="text">445,4</data>
+      <data tclass="Товар,т" type="text">354,9</data>
+      <data tclass="Уд.расход" type="text">1,255001409</data>
+    </Node>
+    <Node guid="CCA7C476769E" nodeName="2010-9" nclass="" shape="square" color="13421772" xPos="40" yPos="280" font="Verdana" fontsize="10">
+      <data tclass="печь №2" type="text">273</data>
+      <data tclass="Печь ПАС" type="text">67</data>
+      <data tclass="печь Термогаз" type="text">20</data>
+      <data tclass="Голлан -3" type="text">2,19</data>
+      <data tclass="ЦЕХ №1" type="text">362,19</data>
+      <data tclass="Горна" type="text">62,5</data>
+      <data tclass="Вистра" type="text">32,4</data>
+      <data tclass="ЦЕХ №3" type="text">94,9</data>
+      <data tclass="СКХ" type="text">0</data>
+      <data tclass="МЗЦ" type="text">0</data>
+      <data tclass="Вспомогат" type="text">0</data>
+      <data tclass="Литье" type="text">2,3</data>
+      <data tclass="Всего" type="text">459,39</data>
+      <data tclass="Товар,т" type="text">336,6</data>
+      <data tclass="Уд.расход" type="text">1,364795009</data>
+    </Node>
+    <Node guid="CCA7C479361D" nodeName="2010-10" nclass="" shape="square" color="13421772" xPos="40" yPos="310" font="Verdana" fontsize="10">
+      <data tclass="печь №2" type="text">290,5</data>
+      <data tclass="Печь ПАС" type="text">71,6</data>
+      <data tclass="т/г техн-1" type="text">21,5</data>
+      <data tclass="т/г обогр-1" type="text">26</data>
+      <data tclass="ЦЕХ №1" type="text">409,6</data>
+      <data tclass="Горна" type="text">130,6</data>
+      <data tclass="Вистра" type="text">22,5</data>
+      <data tclass="т/г техн-3" type="text">24</data>
+      <data tclass="ГИКИ-3" type="text">0,02</data>
+      <data tclass="ЦЕХ №3" type="text">177,12</data>
+      <data tclass="Котельная" type="text">12</data>
+      <data tclass="М/к №1" type="text">4,5</data>
+      <data tclass="М/К №2" type="text">4</data>
+      <data tclass="М/К  №3" type="text">4,5</data>
+      <data tclass="СКХ" type="text">25</data>
+      <data tclass="МЗЦ" type="text">0</data>
+      <data tclass="Вспомогат" type="text">0</data>
+      <data tclass="Литье" type="text">0,8</data>
+      <data tclass="Всего" type="text">612,52</data>
+      <data tclass="Товар,т" type="text">395,2</data>
+      <data tclass="Уд.расход" type="text">1,549898785</data>
+    </Node>
+    <Node guid="CCA7C47DDE4E" nodeName="2010-11" nclass="" shape="square" color="13421772" xPos="40" yPos="340" font="Verdana" fontsize="10">
+      <data tclass="печь №2" type="text">280</data>
+      <data tclass="Печь ПАС" type="text">64</data>
+      <data tclass="т/г техн-1" type="text">50</data>
+      <data tclass="т/г обогр-1" type="text">17</data>
+      <data tclass="печь Термогаз" type="text">9,7</data>
+      <data tclass="ГИКИ-1" type="text">0,31</data>
+      <data tclass="ЦЕХ №1" type="text">421,01</data>
+      <data tclass="Горна" type="text">60,2</data>
+      <data tclass="Вистра" type="text">34,84</data>
+      <data tclass="т/г техн-3" type="text">40</data>
+      <data tclass="ГИКИ-3" type="text">0,72</data>
+      <data tclass="ЦЕХ №3" type="text">135,76</data>
+      <data tclass="Котельная" type="text">15</data>
+      <data tclass="М/к №1" type="text">9</data>
+      <data tclass="М/К №2" type="text">2,5</data>
+      <data tclass="М/К  №3" type="text">2,5</data>
+      <data tclass="СКХ" type="text">29</data>
+      <data tclass="МЗЦ" type="text">0</data>
+      <data tclass="ЦЛИТ" type="text">0,96</data>
+      <data tclass="Вспомогат" type="text">0,96</data>
+      <data tclass="Всего" type="text">586,73</data>
+      <data tclass="Товар,т" type="text">354,4</data>
+      <data tclass="Уд.расход" type="text">1,655558691</data>
+    </Node>
+    <Node guid="CCA7C488CCB8" nodeName="2010-12" nclass="" shape="square" color="13421772" xPos="40" yPos="370" font="Verdana" fontsize="10">
+      <data tclass="печь №2" type="text">295</data>
+      <data tclass="Печь ПАС" type="text">68</data>
+      <data tclass="т/г техн-1" type="text">52</data>
+      <data tclass="т/г обогр-1" type="text">46</data>
+      <data tclass="печь Термогаз" type="text">14,7</data>
+      <data tclass="ГИКИ-1" type="text">0,38</data>
+      <data tclass="ЦЕХ №1" type="text">476,08</data>
+      <data tclass="Горна" type="text">66,26</data>
+      <data tclass="Вистра" type="text">26,3</data>
+      <data tclass="т/г техн-3" type="text">44</data>
+      <data tclass="ГИКИ-3" type="text">0,83</data>
+      <data tclass="ЦЕХ №3" type="text">137,39</data>
+      <data tclass="Котельная" type="text">30</data>
+      <data tclass="М/к №1" type="text">18</data>
+      <data tclass="М/К №2" type="text">9</data>
+      <data tclass="М/К  №3" type="text">9</data>
+      <data tclass="СКХ" type="text">66</data>
+      <data tclass="т/г -МЗЦ" type="text">9</data>
+      <data tclass="ГИКИ -МЗЦ" type="text">0,3</data>
+      <data tclass="МЗЦ" type="text">9,3</data>
+      <data tclass="ЦЛИТ" type="text">0,48</data>
+      <data tclass="Вспомогат" type="text">0,48</data>
+      <data tclass="Всего" type="text">689,25</data>
+      <data tclass="Товар,т" type="text">352,1</data>
+      <data tclass="Уд.расход" type="text">1,957540471</data>
+    </Node>
+    <Node guid="CCA7C48ACA44" nodeName="Всего 2010" nclass="" shape="square" color="13421772" xPos="40" yPos="400" font="Verdana" fontsize="10">
+      <data tclass="печь №2" type="text">3339,5</data>
+      <data tclass="Печь ПАС" type="text">755,4</data>
+      <data tclass="т/г техн-1" type="text">302,74</data>
+      <data tclass="т/г обогр-1" type="text">262,5</data>
+      <data tclass="печь Термогаз" type="text">44,4</data>
+      <data tclass="ГИКИ-1" type="text">5,43</data>
+      <data tclass="Голлан -3" type="text">6,8</data>
+      <data tclass="Голлан -4" type="text">1,16</data>
+      <data tclass="ЦЕХ №1" type="text">4717,93</data>
+      <data tclass="Горна" type="text">600,26</data>
+      <data tclass="Вистра" type="text">192,97</data>
+      <data tclass="т/г техн-3" type="text">264,2</data>
+      <data tclass="ГИКИ-3" type="text">26,03</data>
+      <data tclass="ЦЕХ №3" type="text">1083,46</data>
+      <data tclass="Котельная" type="text">182,8</data>
+      <data tclass="М/к №1" type="text">101,83</data>
+      <data tclass="М/К №2" type="text">56,7</data>
+      <data tclass="М/К  №3" type="text">50,3</data>
+      <data tclass="СКХ" type="text">391,63</data>
+      <data tclass="т/г -МЗЦ" type="text">72,04</data>
+      <data tclass="ГИКИ -МЗЦ" type="text">7,56</data>
+      <data tclass="МЗЦ" type="text">79,6</data>
+      <data tclass="Механическ" type="text">0,63</data>
+      <data tclass="Инструмен" type="text">2,42</data>
+      <data tclass="ЦЛИТ" type="text">4,79</data>
+      <data tclass="Вспомогат" type="text">7,84</data>
+      <data tclass="Литье" type="text">3,1</data>
+      <data tclass="Всего" type="text">6283,56</data>
+      <data tclass="Товар,т" type="text">3839,3</data>
+      <data tclass="Уд.расход" type="text">1,636642096</data>
+    </Node>
+    <Node guid="CCA7C48CF761" nodeName="2011-1" nclass="" shape="square" color="13421772" xPos="40" yPos="430" font="Verdana" fontsize="10">
+      <data tclass="печь №2" type="text">298</data>
+      <data tclass="Печь ПАС" type="text">67</data>
+      <data tclass="т/г техн-1" type="text">60</data>
+      <data tclass="т/г обогр-1" type="text">88</data>
+      <data tclass="ГИКИ-1" type="text">1,04</data>
+      <data tclass="ЦЕХ №1" type="text">514,04</data>
+      <data tclass="Горна" type="text">101</data>
+      <data tclass="Вистра" type="text">37</data>
+      <data tclass="т/г техн-3" type="text">75</data>
+      <data tclass="ГИКИ-3" type="text">10,04</data>
+      <data tclass="ЦЕХ №3" type="text">223,04</data>
+      <data tclass="Котельная" type="text">49</data>
+      <data tclass="М/к №1" type="text">18,8</data>
+      <data tclass="М/К №2" type="text">12,6</data>
+      <data tclass="М/К  №3" type="text">12,6</data>
+      <data tclass="СКХ" type="text">93</data>
+      <data tclass="т/г -МЗЦ" type="text">44</data>
+      <data tclass="ГИКИ -МЗЦ" type="text">2,16</data>
+      <data tclass="МЗЦ" type="text">46,16</data>
+      <data tclass="Механическ" type="text">0</data>
+      <data tclass="Инструмен" type="text">0,39</data>
+      <data tclass="ЦЛИТ" type="text">1,53</data>
+      <data tclass="Вспомогат" type="text">1,92</data>
+      <data tclass="Литье" type="text">2</data>
+      <data tclass="Всего" type="text">880,16</data>
+      <data tclass="Товар,т" type="text">288,3</data>
+      <data tclass="Уд.расход" type="text">3,052930975</data>
+    </Node>
+    <Node guid="CCA7C4A871A4" nodeName="2011-2" nclass="" shape="square" color="13421772" xPos="40" yPos="460" font="Verdana" fontsize="10">
+      <data tclass="печь №2" type="text">260</data>
+      <data tclass="Печь ПАС" type="text">57,5</data>
+      <data tclass="т/г техн-1" type="text">54</data>
+      <data tclass="т/г обогр-1" type="text">89,3</data>
+      <data tclass="ГИКИ-1" type="text">1,19</data>
+      <data tclass="ЦЕХ №1" type="text">461,99</data>
+      <data tclass="Горна" type="text">59,5</data>
+      <data tclass="Вистра" type="text">22,4</data>
+      <data tclass="т/г техн-3" type="text">63</data>
+      <data tclass="ГИКИ-3" type="text">11,5</data>
+      <data tclass="ЦЕХ №3" type="text">156,4</data>
+      <data tclass="Котельная" type="text">49</data>
+      <data tclass="М/к №1" type="text">16</data>
+      <data tclass="М/К №2" type="text">11,5</data>
+      <data tclass="М/К  №3" type="text">10,8</data>
+      <data tclass="СКХ" type="text">87,3</data>
+      <data tclass="т/г -МЗЦ" type="text">39</data>
+      <data tclass="ГИКИ -МЗЦ" type="text">1,34</data>
+      <data tclass="МЗЦ" type="text">40,34</data>
+      <data tclass="Инструмен" type="text">0,26</data>
+      <data tclass="ЦЛИТ" type="text">1,34</data>
+      <data tclass="Вспомогат" type="text">1,6</data>
+      <data tclass="Литье" type="text">1,99</data>
+      <data tclass="Всего" type="text">749,62</data>
+      <data tclass="Товар,т" type="text">272,2</data>
+      <data tclass="Уд.расход" type="text">2,753930933</data>
+    </Node>
+    <Node guid="CCA7C4AA4B77" nodeName="2011-3" nclass="" shape="square" color="13421772" xPos="40" yPos="490" font="Verdana" fontsize="10">
+      <data tclass="печь №2" type="text">280,8</data>
+      <data tclass="Печь ПАС" type="text">60,4</data>
+      <data tclass="т/г техн-1" type="text">47</data>
+      <data tclass="т/г обогр-1" type="text">0</data>
+      <data tclass="ГИКИ-1" type="text">0</data>
+      <data tclass="ЦЕХ №1" type="text">388,2</data>
+      <data tclass="т/г техн-3" type="text">0</data>
+      <data tclass="ГИКИ-3" type="text">0</data>
+      <data tclass="ЦЕХ №3" type="text">0</data>
+      <data tclass="СКХ" type="text">0</data>
+      <data tclass="МЗЦ" type="text">0</data>
+      <data tclass="Инструмен" type="text">0</data>
+      <data tclass="ЦЛИТ" type="text">0</data>
+      <data tclass="Вспомогат" type="text">0</data>
+      <data tclass="Всего" type="text">388,2</data>
+      <data tclass="Товар,т" type="text">296,2</data>
+      <data tclass="Уд.расход" type="text">1,310600945</data>
+    </Node>
+    <Node guid="CCA7C4AC544B" nodeName="2011-4" nclass="" shape="square" color="13421772" xPos="40" yPos="520" font="Verdana" fontsize="10">
+      <data tclass="ЦЕХ №1" type="text">0</data>
+      <data tclass="ЦЕХ №3" type="text">0</data>
+      <data tclass="СКХ" type="text">0</data>
+      <data tclass="МЗЦ" type="text">0</data>
+      <data tclass="Вспомогат" type="text">0</data>
+      <data tclass="Всего" type="text">0</data>
+    </Node>
+    <Node guid="CCA7C4CACB0E" nodeName="2011-5" nclass="" shape="square" color="13421772" xPos="40" yPos="550" font="Verdana" fontsize="10">
+      <data tclass="ЦЕХ №1" type="text">0</data>
+      <data tclass="ЦЕХ №3" type="text">0</data>
+      <data tclass="СКХ" type="text">0</data>
+      <data tclass="МЗЦ" type="text">0</data>
+      <data tclass="Вспомогат" type="text">0</data>
+      <data tclass="Всего" type="text">0</data>
+    </Node>
+    <Node guid="CCA7C4CC7DAC" nodeName="2011-6" nclass="" shape="square" color="13421772" xPos="40" yPos="580" font="Verdana" fontsize="10">
+      <data tclass="ЦЕХ №1" type="text">0</data>
+      <data tclass="ЦЕХ №3" type="text">0</data>
+      <data tclass="СКХ" type="text">0</data>
+      <data tclass="МЗЦ" type="text">0</data>
+      <data tclass="Вспомогат" type="text">0</data>
+      <data tclass="Всего" type="text">0</data>
+    </Node>
+    <Node guid="CCA7C4D7EAC4" nodeName="2011-7" nclass="" shape="square" color="13421772" xPos="40" yPos="610" font="Verdana" fontsize="10">
+      <data tclass="ЦЕХ №1" type="text">0</data>
+      <data tclass="ЦЕХ №3" type="text">0</data>
+      <data tclass="СКХ" type="text">0</data>
+      <data tclass="МЗЦ" type="text">0</data>
+      <data tclass="Вспомогат" type="text">0</data>
+      <data tclass="Всего" type="text">0</data>
+    </Node>
+    <Node guid="CCA7C4DEA9F8" nodeName="2011-8" nclass="" shape="square" color="13421772" xPos="40" yPos="640" font="Verdana" fontsize="10">
+      <data tclass="ЦЕХ №1" type="text">0</data>
+      <data tclass="ЦЕХ №3" type="text">0</data>
+      <data tclass="СКХ" type="text">0</data>
+      <data tclass="МЗЦ" type="text">0</data>
+      <data tclass="Вспомогат" type="text">0</data>
+      <data tclass="Всего" type="text">0</data>
+    </Node>
+    <Node guid="CCA7C4E59539" nodeName="2011-9" nclass="" shape="square" color="13421772" xPos="40" yPos="670" font="Verdana" fontsize="10">
+      <data tclass="ЦЕХ №1" type="text">0</data>
+      <data tclass="ЦЕХ №3" type="text">0</data>
+      <data tclass="СКХ" type="text">0</data>
+      <data tclass="МЗЦ" type="text">0</data>
+      <data tclass="Вспомогат" type="text">0</data>
+      <data tclass="Литье" type="text">2,3</data>
+      <data tclass="Всего" type="text">2,3</data>
+    </Node>
+    <Node guid="CCA7C4E63D2C" nodeName="2011-10" nclass="" shape="square" color="13421772" xPos="40" yPos="700" font="Verdana" fontsize="10">
+      <data tclass="ЦЕХ №1" type="text">0</data>
+      <data tclass="ЦЕХ №3" type="text">0</data>
+      <data tclass="СКХ" type="text">0</data>
+      <data tclass="МЗЦ" type="text">0</data>
+      <data tclass="Вспомогат" type="text">0</data>
+      <data tclass="Литье" type="text">0,8</data>
+      <data tclass="Всего" type="text">0,8</data>
+    </Node>
+    <Node guid="CCA7C4E8D13E" nodeName="2011-11" nclass="" shape="square" color="13421772" xPos="40" yPos="730" font="Verdana" fontsize="10">
+      <data tclass="ЦЕХ №1" type="text">0</data>
+      <data tclass="ЦЕХ №3" type="text">0</data>
+      <data tclass="СКХ" type="text">0</data>
+      <data tclass="МЗЦ" type="text">0</data>
+      <data tclass="Вспомогат" type="text">0</data>
+      <data tclass="Всего" type="text">0</data>
+    </Node>
+    <Node guid="CCA7C4F842C6" nodeName="2011-12" nclass="" shape="square" color="13421772" xPos="40" yPos="760" font="Verdana" fontsize="10">
+      <data tclass="ЦЕХ №1" type="text">0</data>
+      <data tclass="ЦЕХ №3" type="text">0</data>
+      <data tclass="СКХ" type="text">0</data>
+      <data tclass="МЗЦ" type="text">0</data>
+      <data tclass="Вспомогат" type="text">0</data>
+      <data tclass="Всего" type="text">0</data>
+    </Node>
+    <Node guid="CCA7C4FA92E6" nodeName="Всего 2011" nclass="" shape="square" color="13421772" xPos="40" yPos="790" font="Verdana" fontsize="10">
+      <data tclass="печь №2" type="text">280,8</data>
+      <data tclass="Печь ПАС" type="text">60,4</data>
+      <data tclass="т/г техн-1" type="text">47</data>
+      <data tclass="т/г обогр-1" type="text">0</data>
+      <data tclass="печь Термогаз" type="text">0</data>
+      <data tclass="ГИКИ-1" type="text">0</data>
+      <data tclass="Голлан -3" type="text">6,8</data>
+      <data tclass="Голлан -4" type="text">1,16</data>
+      <data tclass="ЦЕХ №1" type="text">396,16</data>
+      <data tclass="Горна" type="text">0</data>
+      <data tclass="Вистра" type="text">0</data>
+      <data tclass="т/г техн-3" type="text">0</data>
+      <data tclass="ГИКИ-3" type="text">0</data>
+      <data tclass="ЦЕХ №3" type="text">0</data>
+      <data tclass="Котельная" type="text">0</data>
+      <data tclass="М/к №1" type="text">0</data>
+      <data tclass="М/К №2" type="text">0</data>
+      <data tclass="М/К  №3" type="text">0</data>
+      <data tclass="СКХ" type="text">0</data>
+      <data tclass="т/г -МЗЦ" type="text">0</data>
+      <data tclass="ГИКИ -МЗЦ" type="text">0</data>
+      <data tclass="МЗЦ" type="text">0</data>
+      <data tclass="Механическ" type="text">0,63</data>
+      <data tclass="Инструмен" type="text">0</data>
+      <data tclass="ЦЛИТ" type="text">0</data>
+      <data tclass="Вспомогат" type="text">0,63</data>
+      <data tclass="Литье" type="text">3,1</data>
+      <data tclass="Всего" type="text">399,89</data>
+    </Node>
+    <Node guid="CCA7C5091429" nodeName="РАСХОД ГАЗА по агрегатно в 2010-2011 годах" nclass="" shape="circle" color="13421772" xPos="275" yPos="123" font="Verdana" fontsize="10"/>
+  </Nodes>
+  <Linkgroups>
+    <Group name="Default" color="10066329"/>
+  </Linkgroups>
+  <Edges>
+    <Edge guid="CCA7C51CE3A5" edgeName="link_290" node1="2010-1" node2="РАСХОД ГАЗА по агрегатно в 2010-2011 годах" group="Default" istwoway="false"/>
+    <Edge guid="CCA7C51DB0DB" edgeName="link_291" node1="2010-2" node2="РАСХОД ГАЗА по агрегатно в 2010-2011 годах" group="Default" istwoway="false"/>
+    <Edge guid="CCA7C52F8E51" edgeName="link_292" node1="2010-3" node2="РАСХОД ГАЗА по агрегатно в 2010-2011 годах" group="Default" istwoway="false"/>
+    <Edge guid="CCA7C531B474" edgeName="link_293" node1="2010-4" node2="РАСХОД ГАЗА по агрегатно в 2010-2011 годах" group="Default" istwoway="false"/>
+    <Edge guid="CCA7C53241E9" edgeName="link_294" node1="2010-5" node2="РАСХОД ГАЗА по агрегатно в 2010-2011 годах" group="Default" istwoway="false"/>
+    <Edge guid="CCA7C538C151" edgeName="link_295" node1="2010-6" node2="РАСХОД ГАЗА по агрегатно в 2010-2011 годах" group="Default" istwoway="false"/>
+    <Edge guid="CCA7C539B147" edgeName="link_296" node1="2010-7" node2="РАСХОД ГАЗА по агрегатно в 2010-2011 годах" group="Default" istwoway="false"/>
+    <Edge guid="CCA7C53A7A42" edgeName="link_297" node1="2010-8" node2="РАСХОД ГАЗА по агрегатно в 2010-2011 годах" group="Default" istwoway="false"/>
+    <Edge guid="CCA7C53CE2CC" edgeName="link_298" node1="2010-9" node2="РАСХОД ГАЗА по агрегатно в 2010-2011 годах" group="Default" istwoway="false"/>
+    <Edge guid="CCA7C53D1C3F" edgeName="link_299" node1="2010-10" node2="РАСХОД ГАЗА по агрегатно в 2010-2011 годах" group="Default" istwoway="false"/>
+    <Edge guid="CCA7C53E01A4" edgeName="link_300" node1="2010-11" node2="РАСХОД ГАЗА по агрегатно в 2010-2011 годах" group="Default" istwoway="false"/>
+    <Edge guid="CCA7C557E69B" edgeName="link_301" node1="2010-12" node2="РАСХОД ГАЗА по агрегатно в 2010-2011 годах" group="Default" istwoway="false"/>
+    <Edge guid="CCA7C558792C" edgeName="link_302" node1="Всего 2010" node2="РАСХОД ГАЗА по агрегатно в 2010-2011 годах" group="Default" istwoway="false"/>
+    <Edge guid="CCA7C559DCA2" edgeName="link_303" node1="2011-1" node2="РАСХОД ГАЗА по агрегатно в 2010-2011 годах" group="Default" istwoway="false"/>
+    <Edge guid="CCA7C56BE1F7" edgeName="link_304" node1="2011-2" node2="РАСХОД ГАЗА по агрегатно в 2010-2011 годах" group="Default" istwoway="false"/>
+    <Edge guid="CCA7C56C6023" edgeName="link_305" node1="2011-3" node2="РАСХОД ГАЗА по агрегатно в 2010-2011 годах" group="Default" istwoway="false"/>
+    <Edge guid="CCA7C56DC558" edgeName="link_306" node1="2011-4" node2="РАСХОД ГАЗА по агрегатно в 2010-2011 годах" group="Default" istwoway="false"/>
+    <Edge guid="CCA7C581CD25" edgeName="link_307" node1="2011-5" node2="РАСХОД ГАЗА по агрегатно в 2010-2011 годах" group="Default" istwoway="false"/>
+    <Edge guid="CCA7C58C7978" edgeName="link_308" node1="2011-6" node2="РАСХОД ГАЗА по агрегатно в 2010-2011 годах" group="Default" istwoway="false"/>
+    <Edge guid="CCA7C58E58A5" edgeName="link_309" node1="2011-7" node2="РАСХОД ГАЗА по агрегатно в 2010-2011 годах" group="Default" istwoway="false"/>
+    <Edge guid="CCA7C591D2BE" edgeName="link_310" node1="2011-8" node2="РАСХОД ГАЗА по агрегатно в 2010-2011 годах" group="Default" istwoway="false"/>
+    <Edge guid="CCA7C59B7570" edgeName="link_311" node1="2011-9" node2="РАСХОД ГАЗА по агрегатно в 2010-2011 годах" group="Default" istwoway="false"/>
+    <Edge guid="CCA7C59CC123" edgeName="link_312" node1="2011-10" node2="РАСХОД ГАЗА по агрегатно в 2010-2011 годах" group="Default" istwoway="false"/>
+    <Edge guid="CCA7C59D3D25" edgeName="link_313" node1="2011-11" node2="РАСХОД ГАЗА по агрегатно в 2010-2011 годах" group="Default" istwoway="false"/>
+    <Edge guid="CCA7C5A34AF5" edgeName="link_314" node1="2011-12" node2="РАСХОД ГАЗА по агрегатно в 2010-2011 годах" group="Default" istwoway="false"/>
+    <Edge guid="CCA7C5A5B885" edgeName="link_315" node1="Всего 2011" node2="РАСХОД ГАЗА по агрегатно в 2010-2011 годах" group="Default" istwoway="false"/>
+  </Edges>
+</Graph>

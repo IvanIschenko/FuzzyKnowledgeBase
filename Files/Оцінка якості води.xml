@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="Windows-1251"?><Graph nodesize="10" vspacing="3" hspacing="20" padding="4" showarrows="true" guid="CD8B0884-73D9-FDA2-1206-72A17502C457" searchurl="https://www.google.com.ua/#output=search%26q=###SEARCH###">
+  <datagroups/>
+  <Nodes>
+    <Node guid="7293BFBCA147" nodeName="Зразок води №1" nclass="" shape="square" color="13421772" xPos="40" yPos="40" font="Verdana" fontsize="10">
+      <data tclass="Загальне мiкробне число при t 37° C - 24 год" type="text">63,21</data>
+      <data tclass="Загальне мiкробне число при t 22° C - 72 год" type="text">68,577</data>
+      <data tclass="Загальнi колiформи" type="text">7,011</data>
+      <data tclass="E.coli" type="text">45,238</data>
+      <data tclass="Ентерококи" type="text">58,743</data>
+      <data tclass="Синьогнiйна паличка (Pseudomonas aeruginosa)" type="text">9,962</data>
+      <data tclass="Патогеннi ентеробактерiї" type="text">68,061</data>
+      <data tclass="Колiфаги" type="text">46,421</data>
+      <data tclass="Ентеровiруси. аденовiруси." type="text">47,821</data>
+      <data tclass="Патогеннi кишковi найпростiшi" type="text">72,855</data>
+      <data tclass="Кишковi гельмiнти" type="text">1,015</data>
+      <data tclass="Сумарна альфа-активнiсть" type="text">0,091</data>
+      <data tclass="Сумарна бета-активнiсть" type="text">0,086</data>
+      <data tclass="Загальна жорсткiсть" type="text">4,328</data>
+      <data tclass="Загальна лужнiсть" type="text">6,473</data>
+      <data tclass="Йод" type="text">20,58</data>
+      <data tclass="Калiй" type="text">9,125</data>
+      <data tclass="Кальцiй" type="text">26,324</data>
+      <data tclass="Магнiй" type="text">26,06</data>
+      <data tclass="Натрiй" type="text">4,018</data>
+      <data tclass="Сухий залишок" type="text">268,857</data>
+      <data tclass="Фториди" type="text">0,877</data>
+      <data tclass="Сумарна активнiсть природної сумiшi iзотопiв U" type="text">0,508</data>
+      <data tclass="Питома активнiсть 226Ra" type="text">0,969</data>
+      <data tclass="Питома активнiсть 228Ra" type="text">0,702</data>
+      <data tclass="Питома активнiсть 222Rn" type="text">71,731</data>
+      <data tclass="Питома активнiсть 137Cs" type="text">0,837</data>
+      <data tclass="Питома активнiсть 90Sr" type="text">0,531</data>
+      <data tclass="Нафтопродукти" type="text">0,2</data>
+      <data tclass="Поверхнево активнi речовини анiоннi" type="text">0,127</data>
+      <data tclass="Кобальт" type="text">0,019</data>
+      <data tclass="Нiкель" type="text">0,02</data>
+      <data tclass="Селен" type="text">0,005</data>
+      <data tclass="Хром загальний" type="text">0,048</data>
+      <data tclass="Бенз(а)пiрен" type="text">0,004</data>
+      <data tclass="Дибромхлорметан" type="text">4,238</data>
+      <data tclass="Пестициди" type="text">0,003</data>
+      <data tclass="Пестициди (сума)" type="text">0,002</data>
+      <data tclass="Тригалогенметани (сума)" type="text">3,666</data>
+      <data tclass="Хлороформ" type="text">24,122</data>
+      <data tclass="Перманганатна окиснюванiсть" type="text">0,382</data>
+      <data tclass="Запах: при t 20° C" type="text">1,704</data>
+      <data tclass="Запах: при t 60° C" type="text">1,65</data>
+      <data tclass="Забарвленiсть" type="text">24,443</data>
+      <data tclass="Каламутнiсть" type="text">3,342</data>
+      <data tclass="Смак та присмак" type="text">0,688</data>
+      <data tclass="Водневий показник" type="text">8,185</data>
+      <data tclass="Дiоксид вуглецю" type="text">0,006</data>
+      <data tclass="Залiзо загальне" type="text">0,738</data>
+      <data tclass="Загальна жорсткiсть" type="text">8,281</data>
+      <data tclass="Загальна лужнiсть" type="text">0</data>
+      <data tclass="Йод" type="text">0,015</data>
+      <data tclass="Кальцiй" type="text">0,011</data>
+      <data tclass="Магнiй" type="text">0,012</data>
+      <data tclass="Марганець" type="text">0,16</data>
+      <data tclass="Мiдь" type="text">0,899</data>
+      <data tclass="Полiфосфати (за PO43-)" type="text">2,605</data>
+      <data tclass="Сульфати" type="text">341,455</data>
+      <data tclass="Сухий залишок" type="text">1338,694</data>
+      <data tclass="Хлор залишковий вiльний" type="text">0,054</data>
+      <data tclass="Хлориди" type="text">310,305</data>
+      <data tclass="Цинк" type="text">0,097</data>
+      <data tclass="Хлор залишковий зв'язаний" type="text">0,583</data>
+      <data tclass="Алюмiнiй" type="text">1,132</data>
+      <data tclass="Амонiй" type="text">0,944</data>
+      <data tclass="Дiоксид хлору" type="text">0,885</data>
+      <data tclass="Кадмiй" type="text">0,005</data>
+      <data tclass="Кремнiй" type="text">5,32</data>
+      <data tclass="Миш'як" type="text">0,007</data>
+      <data tclass="Молiбден" type="text">0,003</data>
+      <data tclass="Натрiй" type="text">49,386</data>
+      <data tclass="Нiтрати (по NO3)" type="text">6,964</data>
+      <data tclass="Нiтрити" type="text">2,052</data>
+      <data tclass="Озон залишковий" type="text">0,188</data>
+      <data tclass="Ртуть" type="text">0</data>
+      <data tclass="Свинець" type="text">0,002</data>
+      <data tclass="Срiбло" type="text">0</data>
+      <data tclass="Фториди" type="text">1,074</data>
+      <data tclass="Хлорити" type="text">0,063</data>
+      <data tclass="Полiакриламiд залишковий" type="text">1,415</data>
+      <data tclass="Формальдегiд" type="text">0,023</data>
+      <data tclass="Хлороформ" type="text">1,779</data>
+      <data tclass="Перманганатна окиснюванiсть" type="text">9,41</data>
+      <data tclass="Феноли леткi" type="text">0</data>
+      <data tclass="Хлорфеноли" type="text">0,003</data>
+      <data tclass="Берилiй" type="text">0</data>
+      <data tclass="Бор" type="text">0,014</data>
+      <data tclass="Стронцiй" type="text">5,032</data>
+      <data tclass="Сурма" type="text">0,004</data>
+      <data tclass="Цiанiди" type="text">0,046</data>
+      <data tclass="Бензол" type="text">0</data>
+      <data tclass="1.2 - дихлоретан" type="text">0,564</data>
+      <data tclass="Тетрахлорвуглець" type="text">0,982</data>
+      <data tclass="Трихлоретилен та тетрахлоретилен (сума)" type="text">2,932</data>
+      <data tclass="Загальний органiчний вуглець" type="text">2,591</data>
+    </Node>
+    <Node guid="7293BFCD84BE" nodeName="Зразок води №2" nclass="" shape="square" color="13421772" xPos="40" yPos="70" font="Verdana" fontsize="10">
+      <data tclass="Загальне мiкробне число при t 37° C - 24 год" type="text">20,988</data>
+      <data tclass="Загальне мiкробне число при t 22° C - 72 год" type="text">0,173</data>
+      <data tclass="Загальнi колiформи" type="text">33,902</data>
+      <data tclass="E.coli" type="text">24,402</data>
+      <data tclass="Ентерококи" type="text">55,357</data>
+      <data tclass="Синьогнiйна паличка (Pseudomonas aeruginosa)" type="text">6,749</data>
+      <data tclass="Патогеннi ентеробактерiї" type="text">64,325</data>
+      <data tclass="Колiфаги" type="text">67,093</data>
+      <data tclass="Ентеровiруси. аденовiруси." type="text">7,705</data>
+      <data tclass="Патогеннi кишковi найпростiшi" type="text">18,671</data>
+      <data tclass="Кишковi гельмiнти" type="text">68,681</data>
+      <data tclass="Сумарна альфа-активнiсть" type="text">0,018</data>
+      <data tclass="Сумарна бета-активнiсть" type="text">0,688</data>
+      <data tclass="Загальна жорсткiсть" type="text">5,437</data>
+      <data tclass="Загальна лужнiсть" type="text">1,395</data>
+      <data tclass="Йод" type="text">23,84</data>
+      <data tclass="Калiй" type="text">11,705</data>
+      <data tclass="Кальцiй" type="text">58,622</data>
+      <data tclass="Магнiй" type="text">31,551</data>
+      <data tclass="Натрiй" type="text">15,297</data>
+      <data tclass="Сухий залишок" type="text">418,937</data>
+      <data tclass="Фториди" type="text">0,835</data>
+      <data tclass="Сумарна активнiсть природної сумiшi iзотопiв U" type="text">0,479</data>
+      <data tclass="Питома активнiсть 226Ra" type="text">0,27</data>
+      <data tclass="Питома активнiсть 228Ra" type="text">1</data>
+      <data tclass="Питома активнiсть 222Rn" type="text">3,777</data>
+      <data tclass="Питома активнiсть 137Cs" type="text">1,474</data>
+      <data tclass="Питома активнiсть 90Sr" type="text">1,007</data>
+      <data tclass="Нафтопродукти" type="text">0,001</data>
+      <data tclass="Поверхнево активнi речовини анiоннi" type="text">0,422</data>
+      <data tclass="Кобальт" type="text">0,043</data>
+      <data tclass="Нiкель" type="text">0</data>
+      <data tclass="Селен" type="text">0,008</data>
+      <data tclass="Хром загальний" type="text">0,016</data>
+      <data tclass="Бенз(а)пiрен" type="text">0,002</data>
+      <data tclass="Дибромхлорметан" type="text">4,749</data>
+      <data tclass="Пестициди" type="text">0,005</data>
+      <data tclass="Пестициди (сума)" type="text">0,005</data>
+      <data tclass="Тригалогенметани (сума)" type="text">22,742</data>
+      <data tclass="Хлороформ" type="text">17,835</data>
+      <data tclass="Перманганатна окиснюванiсть" type="text">1,049</data>
+      <data tclass="Запах: при t 20° C" type="text">1,281</data>
+      <data tclass="Запах: при t 60° C" type="text">1,223</data>
+      <data tclass="Забарвленiсть" type="text">34,458</data>
+      <data tclass="Каламутнiсть" type="text">1,77</data>
+      <data tclass="Смак та присмак" type="text">0,152</data>
+      <data tclass="Водневий показник" type="text">7,201</data>
+      <data tclass="Дiоксид вуглецю" type="text">0,017</data>
+      <data tclass="Залiзо загальне" type="text">0,587</data>
+      <data tclass="Загальна жорсткiсть" type="text">9,645</data>
+      <data tclass="Загальна лужнiсть" type="text">0</data>
+      <data tclass="Йод" type="text">0,004</data>
+      <data tclass="Кальцiй" type="text">0,018</data>
+      <data tclass="Магнiй" type="text">0,016</data>
+      <data tclass="Марганець" type="text">0,618</data>
+      <data tclass="Мiдь" type="text">0,105</data>
+      <data tclass="Полiфосфати (за PO43-)" type="text">0,72</data>
+      <data tclass="Сульфати" type="text">450,562</data>
+      <data tclass="Сухий залишок" type="text">1420,245</data>
+      <data tclass="Хлор залишковий вiльний" type="text">0,218</data>
+      <data tclass="Хлориди" type="text">262,841</data>
+      <data tclass="Цинк" type="text">0,26</data>
+      <data tclass="Хлор залишковий зв'язаний" type="text">0,044</data>
+      <data tclass="Алюмiнiй" type="text">0,702</data>
+      <data tclass="Амонiй" type="text">0,65</data>
+      <data tclass="Дiоксид хлору" type="text">0,354</data>
+      <data tclass="Кадмiй" type="text">0,003</data>
+      <data tclass="Кремнiй" type="text">4,283</data>
+      <data tclass="Миш'як" type="text">0,003</data>
+      <data tclass="Молiбден" type="text">0,006</data>
+      <data tclass="Натрiй" type="text">197,466</data>
+      <data tclass="Нiтрати (по NO3)" type="text">3,109</data>
+      <data tclass="Нiтрити" type="text">2,775</data>
+      <data tclass="Озон залишковий" type="text">0,258</data>
+      <data tclass="Ртуть" type="text">0</data>
+      <data tclass="Свинець" type="text">0,008</data>
+      <data tclass="Срiбло" type="text">0</data>
+      <data tclass="Фториди" type="text">9,729</data>
+      <data tclass="Хлорити" type="text">0,094</data>
+      <data tclass="Полiакриламiд залишковий" type="text">0,841</data>
+      <data tclass="Формальдегiд" type="text">0,046</data>
+      <data tclass="Хлороформ" type="text">1,562</data>
+      <data tclass="Перманганатна окиснюванiсть" type="text">0,979</data>
+      <data tclass="Феноли леткi" type="text">0</data>
+      <data tclass="Хлорфеноли" type="text">0</data>
+      <data tclass="Берилiй" type="text">0,002</data>
+      <data tclass="Бор" type="text">0,015</data>
+      <data tclass="Стронцiй" type="text">1,252</data>
+      <data tclass="Сурма" type="text">0,003</data>
+      <data tclass="Цiанiди" type="text">0,024</data>
+      <data tclass="Бензол" type="text">0,001</data>
+      <data tclass="1.2 - дихлоретан" type="text">1,276</data>
+      <data tclass="Тетрахлорвуглець" type="text">0,358</data>
+      <data tclass="Трихлоретилен та тетрахлоретилен (сума)" type="text">1,947</data>
+      <data tclass="Загальний органiчний вуглець" type="text">0,836</data>
+    </Node>
+    <Node guid="7293BFD0BE54" nodeName="Зразок води №3" nclass="" shape="square" color="13421772" xPos="40" yPos="100" font="Verdana" fontsize="10">
+      <data tclass="Загальне мiкробне число при t 37° C - 24 год" type="text">42,989</data>
+      <data tclass="Загальне мiкробне число при t 22° C - 72 год" type="text">60,754</data>
+      <data tclass="Загальнi колiформи" type="text">55,996</data>
+      <data tclass="E.coli" type="text">46,083</data>
+      <data tclass="Ентерококи" type="text">67,644</data>
+      <data tclass="Синьогнiйна паличка (Pseudomonas aeruginosa)" type="text">3,31</data>
+      <data tclass="Патогеннi ентеробактерiї" type="text">97,529</data>
+      <data tclass="Колiфаги" type="text">45,008</data>
+      <data tclass="Ентеровiруси. аденовiруси." type="text">64,56</data>
+      <data tclass="Патогеннi кишковi найпростiшi" type="text">95,894</data>
+      <data tclass="Кишковi гельмiнти" type="text">65,203</data>
+      <data tclass="Сумарна альфа-активнiсть" type="text">0,03</data>
+      <data tclass="Сумарна бета-активнiсть" type="text">0,045</data>
+      <data tclass="Загальна жорсткiсть" type="text">5,756</data>
+      <data tclass="Загальна лужнiсть" type="text">2,326</data>
+      <data tclass="Йод" type="text">26,991</data>
+      <data tclass="Калiй" type="text">16,017</data>
+      <data tclass="Кальцiй" type="text">52,96</data>
+      <data tclass="Магнiй" type="text">38,258</data>
+      <data tclass="Натрiй" type="text">10,484</data>
+      <data tclass="Сухий залишок" type="text">493,959</data>
+      <data tclass="Фториди" type="text">1,084</data>
+      <data tclass="Сумарна активнiсть природної сумiшi iзотопiв U" type="text">0,659</data>
+      <data tclass="Питома активнiсть 226Ra" type="text">0,882</data>
+      <data tclass="Питома активнiсть 228Ra" type="text">0,718</data>
+      <data tclass="Питома активнiсть 222Rn" type="text">2,563</data>
+      <data tclass="Питома активнiсть 137Cs" type="text">0,827</data>
+      <data tclass="Питома активнiсть 90Sr" type="text">0,564</data>
+      <data tclass="Нафтопродукти" type="text">0,115</data>
+      <data tclass="Поверхнево активнi речовини анiоннi" type="text">0,125</data>
+      <data tclass="Кобальт" type="text">0,017</data>
+      <data tclass="Нiкель" type="text">0,017</data>
+      <data tclass="Селен" type="text">0,002</data>
+      <data tclass="Хром загальний" type="text">0,044</data>
+      <data tclass="Бенз(а)пiрен" type="text">0,003</data>
+      <data tclass="Дибромхлорметан" type="text">9,208</data>
+      <data tclass="Пестициди" type="text">0,002</data>
+      <data tclass="Пестициди (сума)" type="text">0,005</data>
+      <data tclass="Тригалогенметани (сума)" type="text">79,063</data>
+      <data tclass="Хлороформ" type="text">27,919</data>
+      <data tclass="Перманганатна окиснюванiсть" type="text">2,13</data>
+      <data tclass="Запах: при t 20° C" type="text">1,545</data>
+      <data tclass="Запах: при t 60° C" type="text">1,715</data>
+      <data tclass="Забарвленiсть" type="text">26,653</data>
+      <data tclass="Каламутнiсть" type="text">1,333</data>
+      <data tclass="Смак та присмак" type="text">1,985</data>
+      <data tclass="Водневий показник" type="text">7,137</data>
+      <data tclass="Дiоксид вуглецю" type="text">0,018</data>
+      <data tclass="Залiзо загальне" type="text">0,546</data>
+      <data tclass="Загальна жорсткiсть" type="text">8,939</data>
+      <data tclass="Загальна лужнiсть" type="text">0</data>
+      <data tclass="Йод" type="text">0,014</data>
+      <data tclass="Кальцiй" type="text">0,011</data>
+      <data tclass="Магнiй" type="text">0,009</data>
+      <data tclass="Марганець" type="text">0,155</data>
+      <data tclass="Мiдь" type="text">0,098</data>
+      <data tclass="Полiфосфати (за PO43-)" type="text">2,451</data>
+      <data tclass="Сульфати" type="text">405,432</data>
+      <data tclass="Сухий залишок" type="text">1470,674</data>
+      <data tclass="Хлор залишковий вiльний" type="text">0,02</data>
+      <data tclass="Хлориди" type="text">312,732</data>
+      <data tclass="Цинк" type="text">0,957</data>
+      <data tclass="Хлор залишковий зв'язаний" type="text">0,65</data>
+      <data tclass="Алюмiнiй" type="text">1,743</data>
+      <data tclass="Амонiй" type="text">0,73</data>
+      <data tclass="Дiоксид хлору" type="text">0,801</data>
+      <data tclass="Кадмiй" type="text">0,003</data>
+      <data tclass="Кремнiй" type="text">9,788</data>
+      <data tclass="Миш'як" type="text">0,005</data>
+      <data tclass="Молiбден" type="text">0</data>
+      <data tclass="Натрiй" type="text">29,04</data>
+      <data tclass="Нiтрати (по NO3)" type="text">28,544</data>
+      <data tclass="Нiтрити" type="text">2,667</data>
+      <data tclass="Озон залишковий" type="text">0,242</data>
+      <data tclass="Ртуть" type="text">0</data>
+      <data tclass="Свинець" type="text">0,006</data>
+      <data tclass="Срiбло" type="text">0</data>
+      <data tclass="Фториди" type="text">5,724</data>
+      <data tclass="Хлорити" type="text">0,053</data>
+      <data tclass="Полiакриламiд залишковий" type="text">0,171</data>
+      <data tclass="Формальдегiд" type="text">0,017</data>
+      <data tclass="Хлороформ" type="text">8,244</data>
+      <data tclass="Перманганатна окиснюванiсть" type="text">1,94</data>
+      <data tclass="Феноли леткi" type="text">0</data>
+      <data tclass="Хлорфеноли" type="text">0,001</data>
+      <data tclass="Берилiй" type="text">0,002</data>
+      <data tclass="Бор" type="text">0,124</data>
+      <data tclass="Стронцiй" type="text">3,102</data>
+      <data tclass="Сурма" type="text">0,004</data>
+      <data tclass="Цiанiди" type="text">0,008</data>
+      <data tclass="Бензол" type="text">0</data>
+      <data tclass="1.2 - дихлоретан" type="text">2,481</data>
+      <data tclass="Тетрахлорвуглець" type="text">1,134</data>
+      <data tclass="Трихлоретилен та тетрахлоретилен (сума)" type="text">1,958</data>
+      <data tclass="Загальний органiчний вуглець" type="text">2,323</data>
+    </Node>
+    <Node guid="7293BFD23A65" nodeName="Зразок води №4" nclass="" shape="square" color="13421772" xPos="40" yPos="130" font="Verdana" fontsize="10">
+      <data tclass="Загальне мiкробне число при t 37° C - 24 год" type="text">58,675</data>
+      <data tclass="Загальне мiкробне число при t 22° C - 72 год" type="text">56,333</data>
+      <data tclass="Загальнi колiформи" type="text">86,036</data>
+      <data tclass="E.coli" type="text">49,991</data>
+      <data tclass="Ентерококи" type="text">40,11</data>
+      <data tclass="Синьогнiйна паличка (Pseudomonas aeruginosa)" type="text">3,384</data>
+      <data tclass="Патогеннi ентеробактерiї" type="text">76,086</data>
+      <data tclass="Колiфаги" type="text">80,003</data>
+      <data tclass="Ентеровiруси. аденовiруси." type="text">21,62</data>
+      <data tclass="Патогеннi кишковi найпростiшi" type="text">5,91</data>
+      <data tclass="Кишковi гельмiнти" type="text">32,958</data>
+      <data tclass="Сумарна альфа-активнiсть" type="text">0,055</data>
+      <data tclass="Сумарна бета-активнiсть" type="text">0,382</data>
+      <data tclass="Загальна жорсткiсть" type="text">2,313</data>
+      <data tclass="Загальна лужнiсть" type="text">5,576</data>
+      <data tclass="Йод" type="text">23,981</data>
+      <data tclass="Калiй" type="text">8,985</data>
+      <data tclass="Кальцiй" type="text">30,532</data>
+      <data tclass="Магнiй" type="text">43,391</data>
+      <data tclass="Натрiй" type="text">2,099</data>
+      <data tclass="Сухий залишок" type="text">448,513</data>
+      <data tclass="Фториди" type="text">0,877</data>
+      <data tclass="Сумарна активнiсть природної сумiшi iзотопiв U" type="text">0,897</data>
+      <data tclass="Питома активнiсть 226Ra" type="text">0,947</data>
+      <data tclass="Питома активнiсть 228Ra" type="text">0,73</data>
+      <data tclass="Питома активнiсть 222Rn" type="text">92,657</data>
+      <data tclass="Питома активнiсть 137Cs" type="text">1,938</data>
+      <data tclass="Питома активнiсть 90Sr" type="text">1,593</data>
+      <data tclass="Нафтопродукти" type="text">0,137</data>
+      <data tclass="Поверхнево активнi речовини анiоннi" type="text">0,099</data>
+      <data tclass="Кобальт" type="text">0,018</data>
+      <data tclass="Нiкель" type="text">0,01</data>
+      <data tclass="Селен" type="text">0,007</data>
+      <data tclass="Хром загальний" type="text">0,013</data>
+      <data tclass="Бенз(а)пiрен" type="text">0,001</data>
+      <data tclass="Дибромхлорметан" type="text">5,995</data>
+      <data tclass="Пестициди" type="text">0</data>
+      <data tclass="Пестициди (сума)" type="text">0</data>
+      <data tclass="Тригалогенметани (сума)" type="text">70,278</data>
+      <data tclass="Хлороформ" type="text">0,422</data>
+      <data tclass="Перманганатна окиснюванiсть" type="text">3,248</data>
+      <data tclass="Запах: при t 20° C" type="text">0,088</data>
+      <data tclass="Запах: при t 60° C" type="text">0,402</data>
+      <data tclass="Забарвленiсть" type="text">29,896</data>
+      <data tclass="Каламутнiсть" type="text">2,896</data>
+      <data tclass="Смак та присмак" type="text">0,006</data>
+      <data tclass="Водневий показник" type="text">8,091</data>
+      <data tclass="Дiоксид вуглецю" type="text">0,017</data>
+      <data tclass="Залiзо загальне" type="text">0,957</data>
+      <data tclass="Загальна жорсткiсть" type="text">8,914</data>
+      <data tclass="Загальна лужнiсть" type="text">0</data>
+      <data tclass="Йод" type="text">0,018</data>
+      <data tclass="Кальцiй" type="text">0,014</data>
+      <data tclass="Магнiй" type="text">0,011</data>
+      <data tclass="Марганець" type="text">0,118</data>
+      <data tclass="Мiдь" type="text">0,177</data>
+      <data tclass="Полiфосфати (за PO43-)" type="text">3,249</data>
+      <data tclass="Сульфати" type="text">470,251</data>
+      <data tclass="Сухий залишок" type="text">1403,975</data>
+      <data tclass="Хлор залишковий вiльний" type="text">0,032</data>
+      <data tclass="Хлориди" type="text">281,253</data>
+      <data tclass="Цинк" type="text">0,2</data>
+      <data tclass="Хлор залишковий зв'язаний" type="text">1,015</data>
+      <data tclass="Алюмiнiй" type="text">0,215</data>
+      <data tclass="Амонiй" type="text">0,849</data>
+      <data tclass="Дiоксид хлору" type="text">0,955</data>
+      <data tclass="Кадмiй" type="text">0,005</data>
+      <data tclass="Кремнiй" type="text">9,167</data>
+      <data tclass="Миш'як" type="text">0,001</data>
+      <data tclass="Молiбден" type="text">0,001</data>
+      <data tclass="Натрiй" type="text">100,048</data>
+      <data tclass="Нiтрати (по NO3)" type="text">46,33</data>
+      <data tclass="Нiтрити" type="text">2,445</data>
+      <data tclass="Озон залишковий" type="text">0,195</data>
+      <data tclass="Ртуть" type="text">0</data>
+      <data tclass="Свинець" type="text">0,001</data>
+      <data tclass="Срiбло" type="text">0</data>
+      <data tclass="Фториди" type="text">5,967</data>
+      <data tclass="Хлорити" type="text">0,154</data>
+      <data tclass="Полiакриламiд залишковий" type="text">1,801</data>
+      <data tclass="Формальдегiд" type="text">0,035</data>
+      <data tclass="Хлороформ" type="text">9,255</data>
+      <data tclass="Перманганатна окиснюванiсть" type="text">3,372</data>
+      <data tclass="Феноли леткi" type="text">0</data>
+      <data tclass="Хлорфеноли" type="text">0,003</data>
+      <data tclass="Берилiй" type="text">0,002</data>
+      <data tclass="Бор" type="text">0,253</data>
+      <data tclass="Стронцiй" type="text">0,294</data>
+      <data tclass="Сурма" type="text">0,003</data>
+      <data tclass="Цiанiди" type="text">0,026</data>
+      <data tclass="Бензол" type="text">0</data>
+      <data tclass="1.2 - дихлоретан" type="text">1,865</data>
+      <data tclass="Тетрахлорвуглець" type="text">1,716</data>
+      <data tclass="Трихлоретилен та тетрахлоретилен (сума)" type="text">8,952</data>
+      <data tclass="Загальний органiчний вуглець" type="text">0,126</data>
+    </Node>
+    <Node guid="7293BFD5E8EE" nodeName="Зразок води №5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="Загальне мiкробне число при t 37° C - 24 год" type="text">21,461</data>
+      <data tclass="Загальне мiкробне число при t 22° C - 72 год" type="text">17,459</data>
+      <data tclass="Загальнi колiформи" type="text">26,26</data>
+      <data tclass="E.coli" type="text">66,649</data>
+      <data tclass="Ентерококи" type="text">50,822</data>
+      <data tclass="Синьогнiйна паличка (Pseudomonas aeruginosa)" type="text">9,944</data>
+      <data tclass="Патогеннi ентеробактерiї" type="text">90,091</data>
+      <data tclass="Колiфаги" type="text">50,357</data>
+      <data tclass="Ентеровiруси. аденовiруси." type="text">88,647</data>
+      <data tclass="Патогеннi кишковi найпростiшi" type="text">36,007</data>
+      <data tclass="Кишковi гельмiнти" type="text">7,467</data>
+      <data tclass="Сумарна альфа-активнiсть" type="text">0,063</data>
+      <data tclass="Сумарна бета-активнiсть" type="text">0,594</data>
+      <data tclass="Загальна жорсткiсть" type="text">6,854</data>
+      <data tclass="Загальна лужнiсть" type="text">0,631</data>
+      <data tclass="Йод" type="text">24,747</data>
+      <data tclass="Калiй" type="text">12,146</data>
+      <data tclass="Кальцiй" type="text">60,355</data>
+      <data tclass="Магнiй" type="text">36,591</data>
+      <data tclass="Натрiй" type="text">14,704</data>
+      <data tclass="Сухий залишок" type="text">458,929</data>
+      <data tclass="Фториди" type="text">0,849</data>
+      <data tclass="Сумарна активнiсть природної сумiшi iзотопiв U" type="text">0,006</data>
+      <data tclass="Питома активнiсть 226Ra" type="text">0,771</data>
+      <data tclass="Питома активнiсть 228Ra" type="text">0,469</data>
+      <data tclass="Питома активнiсть 222Rn" type="text">62,105</data>
+      <data tclass="Питома активнiсть 137Cs" type="text">1,886</data>
+      <data tclass="Питома активнiсть 90Sr" type="text">0,96</data>
+      <data tclass="Нафтопродукти" type="text">0,037</data>
+      <data tclass="Поверхнево активнi речовини анiоннi" type="text">0,404</data>
+      <data tclass="Кобальт" type="text">0,016</data>
+      <data tclass="Нiкель" type="text">0,018</data>
+      <data tclass="Селен" type="text">0,004</data>
+      <data tclass="Хром загальний" type="text">0</data>
+      <data tclass="Бенз(а)пiрен" type="text">0</data>
+      <data tclass="Дибромхлорметан" type="text">2,591</data>
+      <data tclass="Пестициди" type="text">0,005</data>
+      <data tclass="Пестициди (сума)" type="text">0,004</data>
+      <data tclass="Тригалогенметани (сума)" type="text">59,888</data>
+      <data tclass="Хлороформ" type="text">6,442</data>
+      <data tclass="Перманганатна окиснюванiсть" type="text">2,982</data>
+      <data tclass="Запах: при t 20° C" type="text">1,939</data>
+      <data tclass="Запах: при t 60° C" type="text">1,073</data>
+      <data tclass="Забарвленiсть" type="text">23,789</data>
+      <data tclass="Каламутнiсть" type="text">1,091</data>
+      <data tclass="Смак та присмак" type="text">1,788</data>
+      <data tclass="Водневий показник" type="text">6,725</data>
+      <data tclass="Дiоксид вуглецю" type="text">0,012</data>
+      <data tclass="Залiзо загальне" type="text">0,619</data>
+      <data tclass="Загальна жорсткiсть" type="text">7,079</data>
+      <data tclass="Загальна лужнiсть" type="text">0</data>
+      <data tclass="Йод" type="text">0,01</data>
+      <data tclass="Кальцiй" type="text">0,011</data>
+      <data tclass="Магнiй" type="text">0,007</data>
+      <data tclass="Марганець" type="text">0,942</data>
+      <data tclass="Мiдь" type="text">0,759</data>
+      <data tclass="Полiфосфати (за PO43-)" type="text">1,754</data>
+      <data tclass="Сульфати" type="text">469,929</data>
+      <data tclass="Сухий залишок" type="text">1102,377</data>
+      <data tclass="Хлор залишковий вiльний" type="text">0,455</data>
+      <data tclass="Хлориди" type="text">324,983</data>
+      <data tclass="Цинк" type="text">0,245</data>
+      <data tclass="Хлор залишковий зв'язаний" type="text">0,529</data>
+      <data tclass="Алюмiнiй" type="text">1,086</data>
+      <data tclass="Амонiй" type="text">0,518</data>
+      <data tclass="Дiоксид хлору" type="text">0,634</data>
+      <data tclass="Кадмiй" type="text">0,003</data>
+      <data tclass="Кремнiй" type="text">0,717</data>
+      <data tclass="Миш'як" type="text">0,006</data>
+      <data tclass="Молiбден" type="text">0,006</data>
+      <data tclass="Натрiй" type="text">41,309</data>
+      <data tclass="Нiтрати (по NO3)" type="text">41,909</data>
+      <data tclass="Нiтрити" type="text">1,258</data>
+      <data tclass="Озон залишковий" type="text">0,138</data>
+      <data tclass="Ртуть" type="text">0</data>
+      <data tclass="Свинець" type="text">0,003</data>
+      <data tclass="Срiбло" type="text">0</data>
+      <data tclass="Фториди" type="text">4,25</data>
+      <data tclass="Хлорити" type="text">0,133</data>
+      <data tclass="Полiакриламiд залишковий" type="text">1,765</data>
+      <data tclass="Формальдегiд" type="text">0,017</data>
+      <data tclass="Хлороформ" type="text">1,384</data>
+      <data tclass="Перманганатна окиснюванiсть" type="text">8,275</data>
+      <data tclass="Феноли леткi" type="text">0,001</data>
+      <data tclass="Хлорфеноли" type="text">0</data>
+      <data tclass="Берилiй" type="text">0</data>
+      <data tclass="Бор" type="text">0,048</data>
+      <data tclass="Стронцiй" type="text">0,09</data>
+      <data tclass="Сурма" type="text">0</data>
+      <data tclass="Цiанiди" type="text">0,024</data>
+      <data tclass="Бензол" type="text">0,001</data>
+      <data tclass="1.2 - дихлоретан" type="text">2,965</data>
+      <data tclass="Тетрахлорвуглець" type="text">1,384</data>
+      <data tclass="Трихлоретилен та тетрахлоретилен (сума)" type="text">8,04</data>
+      <data tclass="Загальний органiчний вуглець" type="text">1,414</data>
+    </Node>
+    <Node guid="7293BFD894F7" nodeName="Зразок води №6" nclass="" shape="square" color="13421772" xPos="181" yPos="215" font="Verdana" fontsize="10">
+      <data tclass="Загальне мiкробне число при t 37° C - 24 год" type="text">76,013</data>
+      <data tclass="Загальне мiкробне число при t 22° C - 72 год" type="text">97,593</data>
+      <data tclass="Загальнi колiформи" type="text">1,208</data>
+      <data tclass="E.coli" type="text">11,168</data>
+      <data tclass="Ентерококи" type="text">51,036</data>
+      <data tclass="Синьогнiйна паличка (Pseudomonas aeruginosa)" type="text">6,135</data>
+      <data tclass="Патогеннi ентеробактерiї" type="text">84,599</data>
+      <data tclass="Колiфаги" type="text">82,972</data>
+      <data tclass="Ентеровiруси. аденовiруси." type="text">7,674</data>
+      <data tclass="Патогеннi кишковi найпростiшi" type="text">0,713</data>
+      <data tclass="Кишковi гельмiнти" type="text">57,354</data>
+      <data tclass="Сумарна альфа-активнiсть" type="text">0,08</data>
+      <data tclass="Сумарна бета-активнiсть" type="text">0,746</data>
+      <data tclass="Загальна жорсткiсть" type="text">6,63</data>
+      <data tclass="Загальна лужнiсть" type="text">5,427</data>
+      <data tclass="Йод" type="text">28,515</data>
+      <data tclass="Калiй" type="text">6,14</data>
+      <data tclass="Кальцiй" type="text">70,53</data>
+      <data tclass="Магнiй" type="text">18,119</data>
+      <data tclass="Натрiй" type="text">3,982</data>
+      <data tclass="Сухий залишок" type="text">209,9</data>
+      <data tclass="Фториди" type="text">0,924</data>
+      <data tclass="Сумарна активнiсть природної сумiшi iзотопiв U" type="text">0,948</data>
+      <data tclass="Питома активнiсть 226Ra" type="text">0,904</data>
+      <data tclass="Питома активнiсть 228Ra" type="text">0,089</data>
+      <data tclass="Питома активнiсть 222Rn" type="text">92,418</data>
+      <data tclass="Питома активнiсть 137Cs" type="text">0,297</data>
+      <data tclass="Питома активнiсть 90Sr" type="text">1,267</data>
+      <data tclass="Нафтопродукти" type="text">0,008</data>
+      <data tclass="Поверхнево активнi речовини анiоннi" type="text">0,12</data>
+      <data tclass="Кобальт" type="text">0,095</data>
+      <data tclass="Нiкель" type="text">0,02</data>
+      <data tclass="Селен" type="text">0,005</data>
+      <data tclass="Хром загальний" type="text">0,01</data>
+      <data tclass="Бенз(а)пiрен" type="text">0</data>
+      <data tclass="Дибромхлорметан" type="text">3,346</data>
+      <data tclass="Пестициди" type="text">0,004</data>
+      <data tclass="Пестициди (сума)" type="text">0</data>
+      <data tclass="Тригалогенметани (сума)" type="text">90,576</data>
+      <data tclass="Хлороформ" type="text">35,44</data>
+      <data tclass="Перманганатна окиснюванiсть" type="text">3,272</data>
+      <data tclass="Запах: при t 20° C" type="text">1,385</data>
+      <data tclass="Запах: при t 60° C" type="text">0,492</data>
+      <data tclass="Забарвленiсть" type="text">25,891</data>
+      <data tclass="Каламутнiсть" type="text">1,478</data>
+      <data tclass="Смак та присмак" type="text">1,914</data>
+      <data tclass="Водневий показник" type="text">7,935</data>
+      <data tclass="Дiоксид вуглецю" type="text">0,014</data>
+      <data tclass="Залiзо загальне" type="text">0,898</data>
+      <data tclass="Загальна жорсткiсть" type="text">8,229</data>
+      <data tclass="Загальна лужнiсть" type="text">0</data>
+      <data tclass="Йод" type="text">0,019</data>
+      <data tclass="Кальцiй" type="text">0,001</data>
+      <data tclass="Магнiй" type="text">0,017</data>
+      <data tclass="Марганець" type="text">0,207</data>
+      <data tclass="Мiдь" type="text">0,022</data>
+      <data tclass="Полiфосфати (за PO43-)" type="text">0,707</data>
+      <data tclass="Сульфати" type="text">281,534</data>
+      <data tclass="Сухий залишок" type="text">1387,567</data>
+      <data tclass="Хлор залишковий вiльний" type="text">0,373</data>
+      <data tclass="Хлориди" type="text">257,084</data>
+      <data tclass="Цинк" type="text">0,056</data>
+      <data tclass="Хлор залишковий зв'язаний" type="text">1,023</data>
+      <data tclass="Алюмiнiй" type="text">0,303</data>
+      <data tclass="Амонiй" type="text">0,619</data>
+      <data tclass="Дiоксид хлору" type="text">0,29</data>
+      <data tclass="Кадмiй" type="text">0,003</data>
+      <data tclass="Кремнiй" type="text">7,494</data>
+      <data tclass="Миш'як" type="text">0,003</data>
+      <data tclass="Молiбден" type="text">0,001</data>
+      <data tclass="Натрiй" type="text">183,418</data>
+      <data tclass="Нiтрати (по NO3)" type="text">2,94</data>
+      <data tclass="Нiтрити" type="text">2,045</data>
+      <data tclass="Озон залишковий" type="text">0,165</data>
+      <data tclass="Ртуть" type="text">0</data>
+      <data tclass="Свинець" type="text">0,001</data>
+      <data tclass="Срiбло" type="text">0</data>
+      <data tclass="Фториди" type="text">0,928</data>
+      <data tclass="Хлорити" type="text">0,178</data>
+      <data tclass="Полiакриламiд залишковий" type="text">1,685</data>
+      <data tclass="Формальдегiд" type="text">0,019</data>
+      <data tclass="Хлороформ" type="text">2,097</data>
+      <data tclass="Перманганатна окиснюванiсть" type="text">1,508</data>
+      <data tclass="Феноли леткi" type="text">0</data>
+      <data tclass="Хлорфеноли" type="text">0,001</data>
+      <data tclass="Берилiй" type="text">0,001</data>
+      <data tclass="Бор" type="text">0,41</data>
+      <data tclass="Стронцiй" type="text">3,461</data>
+      <data tclass="Сурма" type="text">0,003</data>
+      <data tclass="Цiанiди" type="text">0,037</data>
+      <data tclass="Бензол" type="text">0</data>
+      <data tclass="1.2 - дихлоретан" type="text">2,888</data>
+      <data tclass="Тетрахлорвуглець" type="text">0,592</data>
+      <data tclass="Трихлоретилен та тетрахлоретилен (сума)" type="text">8,573</data>
+      <data tclass="Загальний органiчний вуглець" type="text">6,754</data>
+    </Node>
+    <Node guid="7293BFDAD70E" nodeName="Зразок води №7" nclass="" shape="square" color="13421772" xPos="325" yPos="239" font="Verdana" fontsize="10">
+      <data tclass="Загальне мiкробне число при t 37° C - 24 год" type="text">5,542</data>
+      <data tclass="Загальне мiкробне число при t 22° C - 72 год" type="text">47,627</data>
+      <data tclass="Загальнi колiформи" type="text">52,76</data>
+      <data tclass="E.coli" type="text">61,079</data>
+      <data tclass="Ентерококи" type="text">51,06</data>
+      <data tclass="Синьогнiйна паличка (Pseudomonas aeruginosa)" type="text">4,124</data>
+      <data tclass="Патогеннi ентеробактерiї" type="text">54,135</data>
+      <data tclass="Колiфаги" type="text">5,171</data>
+      <data tclass="Ентеровiруси. аденовiруси." type="text">34,119</data>
+      <data tclass="Патогеннi кишковi найпростiшi" type="text">35,018</data>
+      <data tclass="Кишковi гельмiнти" type="text">68,379</data>
+      <data tclass="Сумарна альфа-активнiсть" type="text">0,016</data>
+      <data tclass="Сумарна бета-активнiсть" type="text">0,063</data>
+      <data tclass="Загальна жорсткiсть" type="text">4,116</data>
+      <data tclass="Загальна лужнiсть" type="text">4,095</data>
+      <data tclass="Йод" type="text">25,381</data>
+      <data tclass="Калiй" type="text">9,143</data>
+      <data tclass="Кальцiй" type="text">62,116</data>
+      <data tclass="Магнiй" type="text">32,906</data>
+      <data tclass="Натрiй" type="text">4,49</data>
+      <data tclass="Сухий залишок" type="text">318,499</data>
+      <data tclass="Фториди" type="text">1,157</data>
+      <data tclass="Сумарна активнiсть природної сумiшi iзотопiв U" type="text">0,134</data>
+      <data tclass="Питома активнiсть 226Ra" type="text">0,682</data>
+      <data tclass="Питома активнiсть 228Ra" type="text">0,583</data>
+      <data tclass="Питома активнiсть 222Rn" type="text">41,175</data>
+      <data tclass="Питома активнiсть 137Cs" type="text">0,08</data>
+      <data tclass="Питома активнiсть 90Sr" type="text">0,567</data>
+      <data tclass="Нафтопродукти" type="text">0,054</data>
+      <data tclass="Поверхнево активнi речовини анiоннi" type="text">0,081</data>
+      <data tclass="Кобальт" type="text">0,045</data>
+      <data tclass="Нiкель" type="text">0,013</data>
+      <data tclass="Селен" type="text">0,005</data>
+      <data tclass="Хром загальний" type="text">0,012</data>
+      <data tclass="Бенз(а)пiрен" type="text">0</data>
+      <data tclass="Дибромхлорметан" type="text">8,049</data>
+      <data tclass="Пестициди" type="text">0</data>
+      <data tclass="Пестициди (сума)" type="text">0,002</data>
+      <data tclass="Тригалогенметани (сума)" type="text">59,906</data>
+      <data tclass="Хлороформ" type="text">57,835</data>
+      <data tclass="Перманганатна окиснюванiсть" type="text">4,308</data>
+      <data tclass="Запах: при t 20° C" type="text">0,478</data>
+      <data tclass="Запах: при t 60° C" type="text">0,936</data>
+      <data tclass="Забарвленiсть" type="text">26,877</data>
+      <data tclass="Каламутнiсть" type="text">3,15</data>
+      <data tclass="Смак та присмак" type="text">0,61</data>
+      <data tclass="Водневий показник" type="text">8,301</data>
+      <data tclass="Дiоксид вуглецю" type="text">0</data>
+      <data tclass="Залiзо загальне" type="text">0,997</data>
+      <data tclass="Загальна жорсткiсть" type="text">7,33</data>
+      <data tclass="Загальна лужнiсть" type="text">0</data>
+      <data tclass="Йод" type="text">0,018</data>
+      <data tclass="Кальцiй" type="text">0,008</data>
+      <data tclass="Магнiй" type="text">0,016</data>
+      <data tclass="Марганець" type="text">0,087</data>
+      <data tclass="Мiдь" type="text">0,335</data>
+      <data tclass="Полiфосфати (за PO43-)" type="text">0,089</data>
+      <data tclass="Сульфати" type="text">383,182</data>
+      <data tclass="Сухий залишок" type="text">1408,313</data>
+      <data tclass="Хлор залишковий вiльний" type="text">0,077</data>
+      <data tclass="Хлориди" type="text">343,853</data>
+      <data tclass="Цинк" type="text">0,553</data>
+      <data tclass="Хлор залишковий зв'язаний" type="text">1,14</data>
+      <data tclass="Алюмiнiй" type="text">0,656</data>
+      <data tclass="Амонiй" type="text">0,873</data>
+      <data tclass="Дiоксид хлору" type="text">0,705</data>
+      <data tclass="Кадмiй" type="text">0,001</data>
+      <data tclass="Кремнiй" type="text">5,724</data>
+      <data tclass="Миш'як" type="text">0,006</data>
+      <data tclass="Молiбден" type="text">0,007</data>
+      <data tclass="Натрiй" type="text">32,351</data>
+      <data tclass="Нiтрати (по NO3)" type="text">8,766</data>
+      <data tclass="Нiтрити" type="text">2,067</data>
+      <data tclass="Озон залишковий" type="text">0,185</data>
+      <data tclass="Ртуть" type="text">0</data>
+      <data tclass="Свинець" type="text">0,004</data>
+      <data tclass="Срiбло" type="text">0</data>
+      <data tclass="Фториди" type="text">4,288</data>
+      <data tclass="Хлорити" type="text">0,085</data>
+      <data tclass="Полiакриламiд залишковий" type="text">0,127</data>
+      <data tclass="Формальдегiд" type="text">0,013</data>
+      <data tclass="Хлороформ" type="text">9,357</data>
+      <data tclass="Перманганатна окиснюванiсть" type="text">2,117</data>
+      <data tclass="Феноли леткi" type="text">0,001</data>
+      <data tclass="Хлорфеноли" type="text">0,001</data>
+      <data tclass="Берилiй" type="text">0</data>
+      <data tclass="Бор" type="text">0,4</data>
+      <data tclass="Стронцiй" type="text">3,702</data>
+      <data tclass="Сурма" type="text">0</data>
+      <data tclass="Цiанiди" type="text">0,009</data>
+      <data tclass="Бензол" type="text">0,001</data>
+      <data tclass="1.2 - дихлоретан" type="text">2,864</data>
+      <data tclass="Тетрахлорвуглець" type="text">1,416</data>
+      <data tclass="Трихлоретилен та тетрахлоретилен (сума)" type="text">4,497</data>
+      <data tclass="Загальний органiчний вуглець" type="text">3,546</data>
+    </Node>
+    <Node guid="7293BFDCC7FE" nodeName="Зразок води №8" nclass="" shape="square" color="13421772" xPos="367" yPos="179" font="Verdana" fontsize="10">
+      <data tclass="Загальне мiкробне число при t 37° C - 24 год" type="text">45,316</data>
+      <data tclass="Загальне мiкробне число при t 22° C - 72 год" type="text">34,336</data>
+      <data tclass="Загальнi колiформи" type="text">16,803</data>
+      <data tclass="E.coli" type="text">21,777</data>
+      <data tclass="Ентерококи" type="text">68,389</data>
+      <data tclass="Синьогнiйна паличка (Pseudomonas aeruginosa)" type="text">0,911</data>
+      <data tclass="Патогеннi ентеробактерiї" type="text">60,376</data>
+      <data tclass="Колiфаги" type="text">86,764</data>
+      <data tclass="Ентеровiруси. аденовiруси." type="text">59,472</data>
+      <data tclass="Патогеннi кишковi найпростiшi" type="text">96,897</data>
+      <data tclass="Кишковi гельмiнти" type="text">51,847</data>
+      <data tclass="Сумарна альфа-активнiсть" type="text">0,032</data>
+      <data tclass="Сумарна бета-активнiсть" type="text">0,382</data>
+      <data tclass="Загальна жорсткiсть" type="text">6,626</data>
+      <data tclass="Загальна лужнiсть" type="text">1,944</data>
+      <data tclass="Йод" type="text">28,45</data>
+      <data tclass="Калiй" type="text">18,88</data>
+      <data tclass="Кальцiй" type="text">44,175</data>
+      <data tclass="Магнiй" type="text">22,25</data>
+      <data tclass="Натрiй" type="text">10,643</data>
+      <data tclass="Сухий залишок" type="text">482,092</data>
+      <data tclass="Фториди" type="text">0,795</data>
+      <data tclass="Сумарна активнiсть природної сумiшi iзотопiв U" type="text">0,889</data>
+      <data tclass="Питома активнiсть 226Ra" type="text">0,239</data>
+      <data tclass="Питома активнiсть 228Ra" type="text">0,976</data>
+      <data tclass="Питома активнiсть 222Rn" type="text">47,101</data>
+      <data tclass="Питома активнiсть 137Cs" type="text">0,81</data>
+      <data tclass="Питома активнiсть 90Sr" type="text">1,928</data>
+      <data tclass="Нафтопродукти" type="text">0,177</data>
+      <data tclass="Поверхнево активнi речовини анiоннi" type="text">0,055</data>
+      <data tclass="Кобальт" type="text">0,062</data>
+      <data tclass="Нiкель" type="text">0,006</data>
+      <data tclass="Селен" type="text">0,008</data>
+      <data tclass="Хром загальний" type="text">0,012</data>
+      <data tclass="Бенз(а)пiрен" type="text">0,002</data>
+      <data tclass="Дибромхлорметан" type="text">5,799</data>
+      <data tclass="Пестициди" type="text">0,005</data>
+      <data tclass="Пестициди (сума)" type="text">0,005</data>
+      <data tclass="Тригалогенметани (сума)" type="text">27,082</data>
+      <data tclass="Хлороформ" type="text">5,945</data>
+      <data tclass="Перманганатна окиснюванiсть" type="text">2,936</data>
+      <data tclass="Запах: при t 20° C" type="text">0,877</data>
+      <data tclass="Запах: при t 60° C" type="text">1,482</data>
+      <data tclass="Забарвленiсть" type="text">26,846</data>
+      <data tclass="Каламутнiсть" type="text">3,197</data>
+      <data tclass="Смак та присмак" type="text">0,497</data>
+      <data tclass="Водневий показник" type="text">8,377</data>
+      <data tclass="Дiоксид вуглецю" type="text">0,013</data>
+      <data tclass="Залiзо загальне" type="text">0,376</data>
+      <data tclass="Загальна жорсткiсть" type="text">9,755</data>
+      <data tclass="Загальна лужнiсть" type="text">0</data>
+      <data tclass="Йод" type="text">0,006</data>
+      <data tclass="Кальцiй" type="text">0,019</data>
+      <data tclass="Магнiй" type="text">0,01</data>
+      <data tclass="Марганець" type="text">0,335</data>
+      <data tclass="Мiдь" type="text">0,806</data>
+      <data tclass="Полiфосфати (за PO43-)" type="text">2,798</data>
+      <data tclass="Сульфати" type="text">496,184</data>
+      <data tclass="Сухий залишок" type="text">1344,593</data>
+      <data tclass="Хлор залишковий вiльний" type="text">0,274</data>
+      <data tclass="Хлориди" type="text">250,579</data>
+      <data tclass="Цинк" type="text">0,153</data>
+      <data tclass="Хлор залишковий зв'язаний" type="text">0,989</data>
+      <data tclass="Алюмiнiй" type="text">1,385</data>
+      <data tclass="Амонiй" type="text">0,939</data>
+      <data tclass="Дiоксид хлору" type="text">0,579</data>
+      <data tclass="Кадмiй" type="text">0,005</data>
+      <data tclass="Кремнiй" type="text">2,946</data>
+      <data tclass="Миш'як" type="text">0</data>
+      <data tclass="Молiбден" type="text">0,002</data>
+      <data tclass="Натрiй" type="text">171,416</data>
+      <data tclass="Нiтрати (по NO3)" type="text">39,911</data>
+      <data tclass="Нiтрити" type="text">2,041</data>
+      <data tclass="Озон залишковий" type="text">0,122</data>
+      <data tclass="Ртуть" type="text">0</data>
+      <data tclass="Свинець" type="text">0,001</data>
+      <data tclass="Срiбло" type="text">0</data>
+      <data tclass="Фториди" type="text">7,126</data>
+      <data tclass="Хлорити" type="text">0,072</data>
+      <data tclass="Полiакриламiд залишковий" type="text">1,911</data>
+      <data tclass="Формальдегiд" type="text">0,028</data>
+      <data tclass="Хлороформ" type="text">9,349</data>
+      <data tclass="Перманганатна окиснюванiсть" type="text">4,914</data>
+      <data tclass="Феноли леткi" type="text">0,001</data>
+      <data tclass="Хлорфеноли" type="text">0,002</data>
+      <data tclass="Берилiй" type="text">0,001</data>
+      <data tclass="Бор" type="text">0,057</data>
+      <data tclass="Стронцiй" type="text">6,467</data>
+      <data tclass="Сурма" type="text">0,002</data>
+      <data tclass="Цiанiди" type="text">0,034</data>
+      <data tclass="Бензол" type="text">0,001</data>
+      <data tclass="1.2 - дихлоретан" type="text">1,66</data>
+      <data tclass="Тетрахлорвуглець" type="text">1,961</data>
+      <data tclass="Трихлоретилен та тетрахлоретилен (сума)" type="text">5,758</data>
+      <data tclass="Загальний органiчний вуглець" type="text">7,946</data>
+    </Node>
+    <Node guid="7293BFDF33CB" nodeName="Оцiнка якостi води" nclass="" shape="circle" color="13421772" xPos="299" yPos="44" font="Verdana" fontsize="10"/>
+  </Nodes>
+  <Linkgroups>
+    <Group name="Default" color="10066329"/>
+  </Linkgroups>
+  <Edges>
+    <Edge guid="7293BFE438CF" edgeName="link_1" node1="Зразок води №1" node2="Оцiнка якостi води" group="Default" istwoway="false"/>
+    <Edge guid="7293BFE94B08" edgeName="link_2" node1="Зразок води №2" node2="Оцiнка якостi води" group="Default" istwoway="false"/>
+    <Edge guid="7293BFEAFCF5" edgeName="link_3" node1="Зразок води №3" node2="Оцiнка якостi води" group="Default" istwoway="false"/>
+    <Edge guid="7293BFEB5FB0" edgeName="link_4" node1="Зразок води №4" node2="Оцiнка якостi води" group="Default" istwoway="false"/>
+    <Edge guid="7293BFECC96A" edgeName="link_5" node1="Зразок води №5" node2="Оцiнка якостi води" group="Default" istwoway="false"/>
+    <Edge guid="7293BFECA6EA" edgeName="link_6" node1="Зразок води №6" node2="Оцiнка якостi води" group="Default" istwoway="false"/>
+    <Edge guid="7293BFED1EBA" edgeName="link_7" node1="Зразок води №7" node2="Оцiнка якостi води" group="Default" istwoway="false"/>
+    <Edge guid="7293BFEE74B4" edgeName="link_8" node1="Зразок води №8" node2="Оцiнка якостi води" group="Default" istwoway="false"/>
+  </Edges>
+</Graph>
