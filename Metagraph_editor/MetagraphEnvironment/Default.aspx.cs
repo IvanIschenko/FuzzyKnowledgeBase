@@ -182,7 +182,7 @@ namespace WebApplication1
             if (FileUploadOne.HasFile)
             {
                 FileUploadOne.BorderWidth = 0;
-                string savePath = @"C:\Metagraph_docs\";
+                string savePath = @"D:\home\site\doc\";
                 if (FileUploadOne.HasFile)
                 {
                     fileName = FileUploadOne.FileName;
@@ -204,8 +204,8 @@ namespace WebApplication1
                 BNZInJSONString = System.Web.Helpers.Json.Encode(FKB);
 
                 //BNZInJSONString = File.ReadAllText(@"C:\Metagraph_docs\FKB.txt");
-                BNZInJSONStringMain = File.ReadAllText(@"C:\Metagraph_docs\BNZ.txt");
-                using (StreamWriter sw = File.CreateText(@"C:\Metagraph_docs\BNZ.txt"))
+                BNZInJSONStringMain = File.ReadAllText(@"D:\home\site\doc\BNZ.txt");
+                using (StreamWriter sw = File.CreateText(@"D:\home\site\doc\BNZ.txt"))
                 {
                     sw.WriteLine(Program.Conected(BNZInJSONStringMain, BNZInJSONString));
                 }
