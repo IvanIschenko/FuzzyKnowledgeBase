@@ -219,7 +219,21 @@ namespace WebApplication1.FuzzyLogicBase
                     break;
                 }
             }
-            return Convert.ToString(defaz).Remove(5) + " " + Editor.metagraph.Edges[index_max_znach].EndVertex.Name;
+            double rezult = defaz;
+            string rez;
+            if (rezult <= 1)
+            {
+                rez = "підводний об’єкт";
+            }
+            else if (rezult >= 2 && rezult < 3)
+            {
+                rez = " надводний об’єкт";
+            }
+            else
+            {
+                rez = "повітряний об’єкт";
+            }
+            return /*"Ймовірність відповіді: " + Editor.metagraph.Edges[index_max_znach].EndVertex.ZnachFaz +*/ " Тип: " + rez;
         }
         public void SetShortNameLV()
         {

@@ -595,9 +595,9 @@ namespace Functions
                 Elements.Clear();
             }
             ClusterCount = (counterFoRowDataFromFile / 2) + 3;
-            if (ClusterCount > 10)
+            if (ClusterCount > 15)
             {
-                ClusterCount = 7;
+                ClusterCount = 10;
             }
             ///  Console.WriteLine("Максимальное количество кластеров: " + RecommendCountOfMaxClusterCount);
         }

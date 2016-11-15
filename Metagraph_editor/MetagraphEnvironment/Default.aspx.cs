@@ -1455,7 +1455,8 @@ namespace WebApplication1
             args.ListNamesLinguisticVar = ListLPToArgs;
             args.ListValuesLinguisticVar = ListValuesOfLPToArgs;
             args.nameResultedLinguisticVar = ConcludeLP.Text;
-            Label1.Text = args.nameResultedLinguisticVar + " " + FKB.MakeConclusion(ConcludeLP.Text, args, FKB);
+         
+            Label1.Text = FKB.MakeConclusion(ConcludeLP.Text, args, FKB);
         }
 
         protected void IfButton_Click(object sender, EventArgs e)

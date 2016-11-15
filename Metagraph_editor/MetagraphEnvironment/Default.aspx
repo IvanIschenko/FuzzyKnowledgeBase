@@ -152,7 +152,7 @@
                     <ContentTemplate>
                         <asp:ImageButton ID="EditRulesImageButton" Width="3%" Height="3%" CssClass="Pencil" runat="server" ImageUrl="PEN_2.png" OnClick="EditRulesImageButton_Click"/>
                         &nbsp; 
-                        <asp:ListBox ID="ListOfRulesBox" runat="server" OnSelectedIndexChanged="ListOfRulesBox_SelectedIndexChanged">
+                        <asp:ListBox ID="ListOfRulesBox" runat="server" OnSelectedIndexChanged="ListOfRulesBox_SelectedIndexChanged" Width="1162px">
                             <asp:ListItem></asp:ListItem>
                         </asp:ListBox> 
                     </ContentTemplate>
