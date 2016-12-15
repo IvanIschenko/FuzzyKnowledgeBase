@@ -331,10 +331,6 @@ namespace L.Algorithms.Clustering
                         SummNumeral += Math.Pow(MembershipMatrixTemp[k, i], 2) * Math.Pow(ElementsMatrix[k, j] - Clusters.ElementAt(i).Centroid.ElementAt(j), 2);
                     }
                     sigm = Math.Sqrt(SummNumeral / SummDenominator);
-                    //Console.WriteLine("Значение sigm: " + sigm);
-                    //ValueGausFP = Math.Exp(-((Math.Pow((x - a), 2)) / (2 * Math.Pow(sigm, 2))));
-                    //Console.WriteLine("Значение Гаус ФП: " + ValueGausFP);
-                    /// ValueGausFPForEachTerm[i, j] = ValueGausFP;
                     Program.SimpsonsMethodFindingIntegrall(a, sigm, i, j, countColumnData, FKB);
                 }
             }
