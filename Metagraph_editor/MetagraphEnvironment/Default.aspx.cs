@@ -182,7 +182,7 @@ namespace WebApplication1
             if (FileUploadOne.HasFile)
             {
                 FileUploadOne.BorderWidth = 0;
-                string savePath = @"D:\home\site\doc\";
+                string savePath = @"C:\MetaDoc\";
                 if (FileUploadOne.HasFile)
                 {
                     fileName = FileUploadOne.FileName;
@@ -204,12 +204,12 @@ namespace WebApplication1
                 BNZInJSONString = System.Web.Helpers.Json.Encode(FKB);
 
                 //BNZInJSONString = File.ReadAllText(@"C:\Metagraph_docs\FKB.txt");
-                BNZInJSONStringMain = File.ReadAllText(@"D:\home\site\doc\BNZ.txt");
-                using (StreamWriter sw = File.CreateText(@"D:\home\site\doc\BNZ.txt"))
+                BNZInJSONStringMain = File.ReadAllText(@"C:\MetaDoc\BNZ.txt");
+                using (StreamWriter sw = File.CreateText(@"C:\MetaDoc\BNZ.txt"))
                 {
                     sw.WriteLine(Program.Conected(BNZInJSONStringMain, BNZInJSONString));
                 }
-                FKB = Program.WithJsonToBNZ(@"C:\Metagraph_docs\BNZ.txt");
+                FKB = Program.WithJsonToBNZ(@"C:\MetaDoc\BNZ.txt");
             }
             else
             {
@@ -227,7 +227,7 @@ namespace WebApplication1
             if (FileUploadOne.HasFile)
             {
                 FileUploadOne.BorderWidth = 0;
-                string savePath = @"C:\Metagraph_docs\";
+                string savePath = @"C:\MetaDoc\";
                 if (FileUploadOne.HasFile)
                 {
                     fileName = FileUploadOne.FileName;
@@ -260,7 +260,7 @@ namespace WebApplication1
                 FileUploadOne.BorderWidth = 2;
                 FileUploadOne.BorderColor = Color.Red;
             }
-            Program.Save_BNZ(FKB, @"C:\Metagraph_docs\BNZ.txt");
+            Program.Save_BNZ(FKB, @"C:\MetaDoc\BNZ.txt");
             //ConvertMetagraphToGraph();
         }
 

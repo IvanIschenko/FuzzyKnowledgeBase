@@ -42,13 +42,14 @@ namespace WebApplication1.FuzzyLogicBase
             else if (FileType == "xml")
             {
                 Program.ReadAndConvertDataFromXMLFile(PathToFile);
-                Program.ReadDataFromXLSFileOneWatch(@"C:\Program Files (x86)\IIS Express\test.xls");
+
+                /*Program.ReadDataFromXLSFileOneWatch(@"C:\Program Files (x86)\IIS Express\test.xls");
                 K_means k = new K_means(Program.ElementsMulti, null, Program.ClusterCount, Program.ElementsMatrix);
                 double epsilon = 0.05;
                 k.Clustering(Program.ClusterCount, epsilon);
                 k.FindRulesModelTypeMamdani(Program.NameOfLinguisticVariables, Program.ValueIntervalTerm, Program.NameOfTerms, Program.countColumnData, Program.NumbersOfZonesOneLP, Program.counterFoRowDataFromFile, "Трикутна", Program.WeightOfTerms, FKB);
                 k.GausFunction(Program.countColumnData, FKB);
-                Program.WithRullToVar(FKB);
+                Program.WithRullToVar(FKB);*/
             }
             return FKB;
         }
@@ -233,7 +234,7 @@ namespace WebApplication1.FuzzyLogicBase
             {
                 rez = "повітряний об’єкт";
             }
-            return /*"Ймовірність відповіді: " + Editor.metagraph.Edges[index_max_znach].EndVertex.ZnachFaz +*/ " Тип: " + rez;
+            return /*"Ймовірність відповіді: " + Editor.metagraph.Edges[index_max_znach].EndVertex.ZnachFaz +*/ " Тип: " + defaz;
         }
         public void SetShortNameLV()
         {

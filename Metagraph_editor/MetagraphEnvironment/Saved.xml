@@ -1,1 +1,817 @@
-пїњ<?xml version="1.0" encoding="utf-8" ?> 
+<?xml version="1.0" encoding="windows-1251"?>
+<Graph nodesize="10" vspacing="3" hspacing="20" padding="4" showarrows="true" guid="CD8B0884-73D9-FDA2-1206-72A17502C457" searchurl="https://www.google.com.ua/#output=search%26q=###SEARCH###">
+  <datagroups />
+  <Nodes>
+    <Node guid="7293BFBCA147" nodeName="«разок води є1" nclass="" shape="square" color="13421772" xPos="40" yPos="40" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">63,21</data>
+      <data tclass="∆орсткiсть" type="text">4,328</data>
+      <data tclass="Ћужнiсть" type="text">6,473</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,003</data>
+      <data tclass="¬м≥ст осаду" type="text">1338,694</data>
+      <data tclass="як≥сть води" type="text">14,2446976182688</data>
+    </Node>
+    <Node guid="7293BFCD84BE" nodeName="«разок води є2" nclass="" shape="square" color="13421772" xPos="40" yPos="70" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">20,988</data>
+      <data tclass="∆орсткiсть" type="text">5,437</data>
+      <data tclass="Ћужнiсть" type="text">1,395</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,002</data>
+      <data tclass="¬м≥ст осаду" type="text">418,937</data>
+      <data tclass="як≥сть води" type="text">14,9615939009971</data>
+    </Node>
+    <Node guid="7293BFD0BE54" nodeName="«разок води є3" nclass="" shape="square" color="13421772" xPos="40" yPos="100" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">42,989</data>
+      <data tclass="∆орсткiсть" type="text">5,756</data>
+      <data tclass="Ћужнiсть" type="text">2,326</data>
+      <data tclass="¬м≥ст осаду" type="text">493,959</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,002</data>
+      <data tclass="як≥сть води" type="text">14,7542864490218</data>
+    </Node>
+    <Node guid="7293BFD23A65" nodeName="«разок води є4" nclass="" shape="square" color="13421772" xPos="40" yPos="130" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">58,675</data>
+      <data tclass="∆орсткiсть" type="text">2,313</data>
+      <data tclass="Ћужнiсть" type="text">5,576</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0</data>
+      <data tclass="¬м≥ст осаду" type="text">448,513</data>
+      <data tclass="як≥сть води" type="text">11,5950979637036</data>
+    </Node>
+    <Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFBCA147" nodeName="«разок води є1" nclass="" shape="square" color="13421772" xPos="40" yPos="40" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">63,21</data>
+      <data tclass="∆орсткiсть" type="text">4,328</data>
+      <data tclass="Ћужнiсть" type="text">6,473</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,003</data>
+      <data tclass="¬м≥ст осаду" type="text">1338,694</data>
+      <data tclass="як≥сть води" type="text">14,2446976182688</data>
+    </Node>
+    <Node guid="7293BFCD84BE" nodeName="«разок води є2" nclass="" shape="square" color="13421772" xPos="40" yPos="70" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">20,988</data>
+      <data tclass="∆орсткiсть" type="text">5,437</data>
+      <data tclass="Ћужнiсть" type="text">1,395</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,002</data>
+      <data tclass="¬м≥ст осаду" type="text">418,937</data>
+      <data tclass="як≥сть води" type="text">14,9615939009971</data>
+    </Node>
+    <Node guid="7293BFD0BE54" nodeName="«разок води є3" nclass="" shape="square" color="13421772" xPos="40" yPos="100" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">42,989</data>
+      <data tclass="∆орсткiсть" type="text">5,756</data>
+      <data tclass="Ћужнiсть" type="text">2,326</data>
+      <data tclass="¬м≥ст осаду" type="text">493,959</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,002</data>
+      <data tclass="як≥сть води" type="text">14,7542864490218</data>
+    </Node>
+    <Node guid="7293BFD23A65" nodeName="«разок води є4" nclass="" shape="square" color="13421772" xPos="40" yPos="130" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">58,675</data>
+      <data tclass="∆орсткiсть" type="text">2,313</data>
+      <data tclass="Ћужнiсть" type="text">5,576</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0</data>
+      <data tclass="¬м≥ст осаду" type="text">448,513</data>
+      <data tclass="як≥сть води" type="text">11,5950979637036</data>
+    </Node>
+    <Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFBCA147" nodeName="«разок води є1" nclass="" shape="square" color="13421772" xPos="40" yPos="40" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">63,21</data>
+      <data tclass="∆орсткiсть" type="text">4,328</data>
+      <data tclass="Ћужнiсть" type="text">6,473</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,003</data>
+      <data tclass="¬м≥ст осаду" type="text">1338,694</data>
+      <data tclass="як≥сть води" type="text">14,2446976182688</data>
+    </Node>
+    <Node guid="7293BFCD84BE" nodeName="«разок води є2" nclass="" shape="square" color="13421772" xPos="40" yPos="70" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">20,988</data>
+      <data tclass="∆орсткiсть" type="text">5,437</data>
+      <data tclass="Ћужнiсть" type="text">1,395</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,002</data>
+      <data tclass="¬м≥ст осаду" type="text">418,937</data>
+      <data tclass="як≥сть води" type="text">14,9615939009971</data>
+    </Node>
+    <Node guid="7293BFD0BE54" nodeName="«разок води є3" nclass="" shape="square" color="13421772" xPos="40" yPos="100" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">42,989</data>
+      <data tclass="∆орсткiсть" type="text">5,756</data>
+      <data tclass="Ћужнiсть" type="text">2,326</data>
+      <data tclass="¬м≥ст осаду" type="text">493,959</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,002</data>
+      <data tclass="як≥сть води" type="text">14,7542864490218</data>
+    </Node>
+    <Node guid="7293BFD23A65" nodeName="«разок води є4" nclass="" shape="square" color="13421772" xPos="40" yPos="130" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">58,675</data>
+      <data tclass="∆орсткiсть" type="text">2,313</data>
+      <data tclass="Ћужнiсть" type="text">5,576</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0</data>
+      <data tclass="¬м≥ст осаду" type="text">448,513</data>
+      <data tclass="як≥сть води" type="text">11,5950979637036</data>
+    </Node>
+    <Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFBCA147" nodeName="«разок води є1" nclass="" shape="square" color="13421772" xPos="40" yPos="40" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">63,21</data>
+      <data tclass="∆орсткiсть" type="text">4,328</data>
+      <data tclass="Ћужнiсть" type="text">6,473</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,003</data>
+      <data tclass="¬м≥ст осаду" type="text">1338,694</data>
+      <data tclass="як≥сть води" type="text">14,2446976182688</data>
+    </Node>
+    <Node guid="7293BFCD84BE" nodeName="«разок води є2" nclass="" shape="square" color="13421772" xPos="40" yPos="70" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">20,988</data>
+      <data tclass="∆орсткiсть" type="text">5,437</data>
+      <data tclass="Ћужнiсть" type="text">1,395</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,002</data>
+      <data tclass="¬м≥ст осаду" type="text">418,937</data>
+      <data tclass="як≥сть води" type="text">14,9615939009971</data>
+    </Node>
+    <Node guid="7293BFD0BE54" nodeName="«разок води є3" nclass="" shape="square" color="13421772" xPos="40" yPos="100" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">42,989</data>
+      <data tclass="∆орсткiсть" type="text">5,756</data>
+      <data tclass="Ћужнiсть" type="text">2,326</data>
+      <data tclass="¬м≥ст осаду" type="text">493,959</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,002</data>
+      <data tclass="як≥сть води" type="text">14,7542864490218</data>
+    </Node>
+    <Node guid="7293BFD23A65" nodeName="«разок води є4" nclass="" shape="square" color="13421772" xPos="40" yPos="130" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">58,675</data>
+      <data tclass="∆орсткiсть" type="text">2,313</data>
+      <data tclass="Ћужнiсть" type="text">5,576</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0</data>
+      <data tclass="¬м≥ст осаду" type="text">448,513</data>
+      <data tclass="як≥сть води" type="text">11,5950979637036</data>
+    </Node>
+    <Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFBCA147" nodeName="«разок води є1" nclass="" shape="square" color="13421772" xPos="40" yPos="40" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">63,21</data>
+      <data tclass="∆орсткiсть" type="text">4,328</data>
+      <data tclass="Ћужнiсть" type="text">6,473</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,003</data>
+      <data tclass="¬м≥ст осаду" type="text">1338,694</data>
+      <data tclass="як≥сть води" type="text">14,2446976182688</data>
+    </Node>
+    <Node guid="7293BFCD84BE" nodeName="«разок води є2" nclass="" shape="square" color="13421772" xPos="40" yPos="70" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">20,988</data>
+      <data tclass="∆орсткiсть" type="text">5,437</data>
+      <data tclass="Ћужнiсть" type="text">1,395</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,002</data>
+      <data tclass="¬м≥ст осаду" type="text">418,937</data>
+      <data tclass="як≥сть води" type="text">14,9615939009971</data>
+    </Node>
+    <Node guid="7293BFD0BE54" nodeName="«разок води є3" nclass="" shape="square" color="13421772" xPos="40" yPos="100" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">42,989</data>
+      <data tclass="∆орсткiсть" type="text">5,756</data>
+      <data tclass="Ћужнiсть" type="text">2,326</data>
+      <data tclass="¬м≥ст осаду" type="text">493,959</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,002</data>
+      <data tclass="як≥сть води" type="text">14,7542864490218</data>
+    </Node>
+    <Node guid="7293BFD23A65" nodeName="«разок води є4" nclass="" shape="square" color="13421772" xPos="40" yPos="130" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">58,675</data>
+      <data tclass="∆орсткiсть" type="text">2,313</data>
+      <data tclass="Ћужнiсть" type="text">5,576</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0</data>
+      <data tclass="¬м≥ст осаду" type="text">448,513</data>
+      <data tclass="як≥сть води" type="text">11,5950979637036</data>
+    </Node>
+    <Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFBCA147" nodeName="«разок води є1" nclass="" shape="square" color="13421772" xPos="40" yPos="40" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">63,21</data>
+      <data tclass="∆орсткiсть" type="text">4,328</data>
+      <data tclass="Ћужнiсть" type="text">6,473</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,003</data>
+      <data tclass="¬м≥ст осаду" type="text">1338,694</data>
+      <data tclass="як≥сть води" type="text">14,2446976182688</data>
+    </Node>
+    <Node guid="7293BFCD84BE" nodeName="«разок води є2" nclass="" shape="square" color="13421772" xPos="40" yPos="70" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">20,988</data>
+      <data tclass="∆орсткiсть" type="text">5,437</data>
+      <data tclass="Ћужнiсть" type="text">1,395</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,002</data>
+      <data tclass="¬м≥ст осаду" type="text">418,937</data>
+      <data tclass="як≥сть води" type="text">14,9615939009971</data>
+    </Node>
+    <Node guid="7293BFD0BE54" nodeName="«разок води є3" nclass="" shape="square" color="13421772" xPos="40" yPos="100" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">42,989</data>
+      <data tclass="∆орсткiсть" type="text">5,756</data>
+      <data tclass="Ћужнiсть" type="text">2,326</data>
+      <data tclass="¬м≥ст осаду" type="text">493,959</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,002</data>
+      <data tclass="як≥сть води" type="text">14,7542864490218</data>
+    </Node>
+    <Node guid="7293BFD23A65" nodeName="«разок води є4" nclass="" shape="square" color="13421772" xPos="40" yPos="130" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">58,675</data>
+      <data tclass="∆орсткiсть" type="text">2,313</data>
+      <data tclass="Ћужнiсть" type="text">5,576</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0</data>
+      <data tclass="¬м≥ст осаду" type="text">448,513</data>
+      <data tclass="як≥сть води" type="text">11,5950979637036</data>
+    </Node>
+    <Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFBCA147" nodeName="«разок води є1" nclass="" shape="square" color="13421772" xPos="40" yPos="40" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">63,21</data>
+      <data tclass="∆орсткiсть" type="text">4,328</data>
+      <data tclass="Ћужнiсть" type="text">6,473</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,003</data>
+      <data tclass="¬м≥ст осаду" type="text">1338,694</data>
+      <data tclass="як≥сть води" type="text">14,2446976182688</data>
+    </Node>
+    <Node guid="7293BFCD84BE" nodeName="«разок води є2" nclass="" shape="square" color="13421772" xPos="40" yPos="70" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">20,988</data>
+      <data tclass="∆орсткiсть" type="text">5,437</data>
+      <data tclass="Ћужнiсть" type="text">1,395</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,002</data>
+      <data tclass="¬м≥ст осаду" type="text">418,937</data>
+      <data tclass="як≥сть води" type="text">14,9615939009971</data>
+    </Node>
+    <Node guid="7293BFD0BE54" nodeName="«разок води є3" nclass="" shape="square" color="13421772" xPos="40" yPos="100" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">42,989</data>
+      <data tclass="∆орсткiсть" type="text">5,756</data>
+      <data tclass="Ћужнiсть" type="text">2,326</data>
+      <data tclass="¬м≥ст осаду" type="text">493,959</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,002</data>
+      <data tclass="як≥сть води" type="text">14,7542864490218</data>
+    </Node>
+    <Node guid="7293BFD23A65" nodeName="«разок води є4" nclass="" shape="square" color="13421772" xPos="40" yPos="130" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">58,675</data>
+      <data tclass="∆орсткiсть" type="text">2,313</data>
+      <data tclass="Ћужнiсть" type="text">5,576</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0</data>
+      <data tclass="¬м≥ст осаду" type="text">448,513</data>
+      <data tclass="як≥сть води" type="text">11,5950979637036</data>
+    </Node>
+    <Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFBCA147" nodeName="«разок води є1" nclass="" shape="square" color="13421772" xPos="40" yPos="40" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">63,21</data>
+      <data tclass="∆орсткiсть" type="text">4,328</data>
+      <data tclass="Ћужнiсть" type="text">6,473</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,003</data>
+      <data tclass="¬м≥ст осаду" type="text">1338,694</data>
+      <data tclass="як≥сть води" type="text">14,2446976182688</data>
+    </Node>
+    <Node guid="7293BFCD84BE" nodeName="«разок води є2" nclass="" shape="square" color="13421772" xPos="40" yPos="70" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">20,988</data>
+      <data tclass="∆орсткiсть" type="text">5,437</data>
+      <data tclass="Ћужнiсть" type="text">1,395</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,002</data>
+      <data tclass="¬м≥ст осаду" type="text">418,937</data>
+      <data tclass="як≥сть води" type="text">14,9615939009971</data>
+    </Node>
+    <Node guid="7293BFD0BE54" nodeName="«разок води є3" nclass="" shape="square" color="13421772" xPos="40" yPos="100" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">42,989</data>
+      <data tclass="∆орсткiсть" type="text">5,756</data>
+      <data tclass="Ћужнiсть" type="text">2,326</data>
+      <data tclass="¬м≥ст осаду" type="text">493,959</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,002</data>
+      <data tclass="як≥сть води" type="text">14,7542864490218</data>
+    </Node>
+    <Node guid="7293BFD23A65" nodeName="«разок води є4" nclass="" shape="square" color="13421772" xPos="40" yPos="130" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">58,675</data>
+      <data tclass="∆орсткiсть" type="text">2,313</data>
+      <data tclass="Ћужнiсть" type="text">5,576</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0</data>
+      <data tclass="¬м≥ст осаду" type="text">448,513</data>
+      <data tclass="як≥сть води" type="text">11,5950979637036</data>
+    </Node>
+    <Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFBCA147" nodeName="«разок води є1" nclass="" shape="square" color="13421772" xPos="40" yPos="40" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">63,21</data>
+      <data tclass="∆орсткiсть" type="text">4,328</data>
+      <data tclass="Ћужнiсть" type="text">6,473</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,003</data>
+      <data tclass="¬м≥ст осаду" type="text">1338,694</data>
+      <data tclass="як≥сть води" type="text">14,2446976182688</data>
+    </Node>
+    <Node guid="7293BFCD84BE" nodeName="«разок води є2" nclass="" shape="square" color="13421772" xPos="40" yPos="70" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">20,988</data>
+      <data tclass="∆орсткiсть" type="text">5,437</data>
+      <data tclass="Ћужнiсть" type="text">1,395</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,002</data>
+      <data tclass="¬м≥ст осаду" type="text">418,937</data>
+      <data tclass="як≥сть води" type="text">14,9615939009971</data>
+    </Node>
+    <Node guid="7293BFD0BE54" nodeName="«разок води є3" nclass="" shape="square" color="13421772" xPos="40" yPos="100" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">42,989</data>
+      <data tclass="∆орсткiсть" type="text">5,756</data>
+      <data tclass="Ћужнiсть" type="text">2,326</data>
+      <data tclass="¬м≥ст осаду" type="text">493,959</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,002</data>
+      <data tclass="як≥сть води" type="text">14,7542864490218</data>
+    </Node>
+    <Node guid="7293BFD23A65" nodeName="«разок води є4" nclass="" shape="square" color="13421772" xPos="40" yPos="130" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">58,675</data>
+      <data tclass="∆орсткiсть" type="text">2,313</data>
+      <data tclass="Ћужнiсть" type="text">5,576</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0</data>
+      <data tclass="¬м≥ст осаду" type="text">448,513</data>
+      <data tclass="як≥сть води" type="text">11,5950979637036</data>
+    </Node>
+    <Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFBCA147" nodeName="«разок води є1" nclass="" shape="square" color="13421772" xPos="40" yPos="40" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">63,21</data>
+      <data tclass="∆орсткiсть" type="text">4,328</data>
+      <data tclass="Ћужнiсть" type="text">6,473</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,003</data>
+      <data tclass="¬м≥ст осаду" type="text">1338,694</data>
+      <data tclass="як≥сть води" type="text">14,2446976182688</data>
+    </Node>
+    <Node guid="7293BFCD84BE" nodeName="«разок води є2" nclass="" shape="square" color="13421772" xPos="40" yPos="70" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">20,988</data>
+      <data tclass="∆орсткiсть" type="text">5,437</data>
+      <data tclass="Ћужнiсть" type="text">1,395</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,002</data>
+      <data tclass="¬м≥ст осаду" type="text">418,937</data>
+      <data tclass="як≥сть води" type="text">14,9615939009971</data>
+    </Node>
+    <Node guid="7293BFD0BE54" nodeName="«разок води є3" nclass="" shape="square" color="13421772" xPos="40" yPos="100" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">42,989</data>
+      <data tclass="∆орсткiсть" type="text">5,756</data>
+      <data tclass="Ћужнiсть" type="text">2,326</data>
+      <data tclass="¬м≥ст осаду" type="text">493,959</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,002</data>
+      <data tclass="як≥сть води" type="text">14,7542864490218</data>
+    </Node>
+    <Node guid="7293BFD23A65" nodeName="«разок води є4" nclass="" shape="square" color="13421772" xPos="40" yPos="130" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">58,675</data>
+      <data tclass="∆орсткiсть" type="text">2,313</data>
+      <data tclass="Ћужнiсть" type="text">5,576</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0</data>
+      <data tclass="¬м≥ст осаду" type="text">448,513</data>
+      <data tclass="як≥сть води" type="text">11,5950979637036</data>
+    </Node>
+    <Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFBCA147" nodeName="«разок води є1" nclass="" shape="square" color="13421772" xPos="40" yPos="40" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">63,21</data>
+      <data tclass="∆орсткiсть" type="text">4,328</data>
+      <data tclass="Ћужнiсть" type="text">6,473</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,003</data>
+      <data tclass="¬м≥ст осаду" type="text">1338,694</data>
+      <data tclass="як≥сть води" type="text">14,2446976182688</data>
+    </Node>
+    <Node guid="7293BFCD84BE" nodeName="«разок води є2" nclass="" shape="square" color="13421772" xPos="40" yPos="70" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">20,988</data>
+      <data tclass="∆орсткiсть" type="text">5,437</data>
+      <data tclass="Ћужнiсть" type="text">1,395</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,002</data>
+      <data tclass="¬м≥ст осаду" type="text">418,937</data>
+      <data tclass="як≥сть води" type="text">14,9615939009971</data>
+    </Node>
+    <Node guid="7293BFD0BE54" nodeName="«разок води є3" nclass="" shape="square" color="13421772" xPos="40" yPos="100" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">42,989</data>
+      <data tclass="∆орсткiсть" type="text">5,756</data>
+      <data tclass="Ћужнiсть" type="text">2,326</data>
+      <data tclass="¬м≥ст осаду" type="text">493,959</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,002</data>
+      <data tclass="як≥сть води" type="text">14,7542864490218</data>
+    </Node>
+    <Node guid="7293BFD23A65" nodeName="«разок води є4" nclass="" shape="square" color="13421772" xPos="40" yPos="130" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">58,675</data>
+      <data tclass="∆орсткiсть" type="text">2,313</data>
+      <data tclass="Ћужнiсть" type="text">5,576</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0</data>
+      <data tclass="¬м≥ст осаду" type="text">448,513</data>
+      <data tclass="як≥сть води" type="text">11,5950979637036</data>
+    </Node>
+    <Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+	<Node guid="7293BFD5E8EE" nodeName="«разок води є5" nclass="" shape="square" color="13421772" xPos="73" yPos="174" font="Verdana" fontsize="10">
+      <data tclass="«агальне мiкробне число" type="text">21,461</data>
+      <data tclass="∆орсткiсть" type="text">6,854</data>
+      <data tclass="Ћужнiсть" type="text">0,631</data>
+      <data tclass="¬м≥ст пестицид≥в" type="text">0,004</data>
+      <data tclass="¬м≥ст осаду" type="text">59,888</data>
+      <data tclass="як≥сть води" type="text">14,5078647648722</data>
+    </Node>
+    <Node guid="7293BFDF33CB" nodeName="ќцiнка €костi води" nclass="" shape="circle" color="13421772" xPos="299" yPos="44" font="Verdana" fontsize="10" />
+  </Nodes>
+  <Linkgroups>
+    <Group name="Default" color="10066329" />
+  </Linkgroups>
+  <Edges>
+    <Edge guid="7293BFE438CF" edgeName="link_1" node1="«разок води є1" node2="ќцiнка €костi води" group="Default" istwoway="false" />
+    <Edge guid="7293BFE94B08" edgeName="link_2" node1="«разок води є2" node2="ќцiнка €костi води" group="Default" istwoway="false" />
+    <Edge guid="7293BFEAFCF5" edgeName="link_3" node1="«разок води є3" node2="ќцiнка €костi води" group="Default" istwoway="false" />
+    <Edge guid="7293BFEB5FB0" edgeName="link_4" node1="«разок води є4" node2="ќцiнка €костi води" group="Default" istwoway="false" />
+    <Edge guid="7293BFECC96A" edgeName="link_5" node1="«разок води є5" node2="ќцiнка €костi води" group="Default" istwoway="false" />
+  </Edges>
+</Graph>
