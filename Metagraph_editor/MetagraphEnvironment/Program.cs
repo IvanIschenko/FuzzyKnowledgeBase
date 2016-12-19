@@ -538,7 +538,6 @@ namespace Functions
                  WeightOfTerms.Add(5);
                  WeightOfTerms.Add(6);
                  NumbersOfZonesOneLP = 7;
-
              /*}*/
         }
         public static void ReadDataFromXLSFileOneWatch(string path) // Function for reading data from the file .xls
