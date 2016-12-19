@@ -509,7 +509,7 @@ namespace Functions
            }
             else if(ClusterCount > 4 && ClusterCount <=6)
             {*/
-            NameOfTerms.Add("очень маленькая");
+            /*NameOfTerms.Add("очень маленькая");
             NameOfTerms.Add("маленькая");
             NameOfTerms.Add("средняя");
             NameOfTerms.Add("большая");
@@ -519,10 +519,10 @@ namespace Functions
             WeightOfTerms.Add(3);
             WeightOfTerms.Add(4);
             WeightOfTerms.Add(5);
-            NumbersOfZonesOneLP = 5;
+            NumbersOfZonesOneLP = 5;*/
             /*}
              else if (ClusterCount >= 7 && ClusterCount <= (counterFoRowDataFromFile / 2) + 3) 
-             {
+             {*/
                      NameOfTerms.Add("якість дуже низька");
                      NameOfTerms.Add("якість низька");
                      NameOfTerms.Add("якість не низька");
@@ -538,7 +538,7 @@ namespace Functions
                  WeightOfTerms.Add(5);
                  WeightOfTerms.Add(6);
                  NumbersOfZonesOneLP = 7;
-             }*/
+             /*}*/
         }
         public static void ReadDataFromXLSFileOneWatch(string path) // Function for reading data from the file .xls
         {
@@ -559,7 +559,6 @@ namespace Functions
                 List<Term> t = new List<Term>();
                 NameOfLinguisticVariables.Add(string.Format("{0: 0.0}", sheet.GetRow(0).GetCell(column)));
                 LinguisticVariable LP = new LinguisticVariable(ID, string.Format("{0: 0.0}", sheet.GetRow(0).GetCell(column)), t, 0, 1);
-                //FKB.ListVar.Add(LP);
                 countColumnData += 1;
             }
 
@@ -603,13 +602,13 @@ namespace Functions
         }
         public static void ReadAndConvertDataFromXMLFile(string pathToCheck)
         {
-            XmlTextReader reader = new XmlTextReader(pathToCheck);  // Оцінка якості води  -- Расход газа
-            int CountNodesInXMLfile = 0;  // переменная принимающая число 2, то заканчиваеться запись ЛПшек
+            XmlTextReader reader = new XmlTextReader(pathToCheck);  
+            int CountNodesInXMLfile = 0;
             string NameOFViewFromFileXML = "";
             List<string> NameOFtermsForOneLVFromFileXML = new List<string>();
-            countColumnData = 0;  // число колонок в создаваемом файле
+            countColumnData = 0;  
 
-            while (reader.Read() && CountNodesInXMLfile != 2)  // цыкл, для записи всех ЛПшек
+            while (reader.Read() && CountNodesInXMLfile != 2)
             {
                 if (reader.Name == "Node")
                 {
@@ -622,7 +621,7 @@ namespace Functions
                 }
             }
             wb = HSSFWorkbook.Create(InternalWorkbook.CreateWorkbook());
-            sh = (HSSFSheet)wb.CreateSheet("FirstList");// create sheet
+            sh = (HSSFSheet)wb.CreateSheet("FirstList");
 
             for (int i = 0; i < 1; i++) // запись названий лингвистических переменных с xml -> xls
             {
