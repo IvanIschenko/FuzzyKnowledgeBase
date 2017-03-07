@@ -523,13 +523,13 @@ namespace Functions
             /*}
              else if (ClusterCount >= 7 && ClusterCount <= (counterFoRowDataFromFile / 2) + 3) 
              {*/
-                     NameOfTerms.Add("якість дуже низька");
-                     NameOfTerms.Add("якість низька");
-                     NameOfTerms.Add("якість не низька");
-                     NameOfTerms.Add("якість середня");
-                     NameOfTerms.Add("якість не дуже висока");
-                     NameOfTerms.Add("якість висока");
-                     NameOfTerms.Add("якість дуже висока");
+                     NameOfTerms.Add("дуже низька");
+                     NameOfTerms.Add("низька");
+                     NameOfTerms.Add("не низька");
+                     NameOfTerms.Add("середня");
+                     NameOfTerms.Add("не дуже висока");
+                     NameOfTerms.Add("висока");
+                     NameOfTerms.Add("дуже висока");
                  WeightOfTerms.Add(0);
                  WeightOfTerms.Add(1);
                  WeightOfTerms.Add(2);
@@ -564,7 +564,7 @@ namespace Functions
 
             if (counterFoRowDataFromFile == 0)
             {
-                for (Row = 1; sheet.GetRow(Row).GetCell(0) != null; Row++)  // подсчет количества строк в файле
+                for (Row = 1; Row <= sheet.LastRowNum; Row++)  // подсчет количества строк в файле
                 {
                     counterFoRowDataFromFile++;
                 }

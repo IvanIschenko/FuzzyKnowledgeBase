@@ -23,6 +23,7 @@ using WebApplication1.FuzzyLogicBase;
 
 using System.Xml;
 using System.Text;
+using Service.Controllers;
 
 namespace WebApplication1
 {
@@ -48,7 +49,7 @@ namespace WebApplication1
         public static string TypeFP = "";
         public static int minAx = 0, maxAx = 0;
         public static bool FirstCheck = false;
-
+        
 
         public static string rule_n = "";
         public static List<Label> MinMax = new List<Label>();

@@ -206,6 +206,7 @@ namespace WebApplication1.FuzzyLogicBase
                     break;
                 }
             }
+            string s = "";
             for (int i = 0; i < FKB.ListVar.Count; i++)
             {
                 if (FKB.ListVar[i].Name == Editor.metagraph.Edges[index_max_znach].EndVertex.NameLP)
@@ -215,26 +216,23 @@ namespace WebApplication1.FuzzyLogicBase
                         if (FKB.ListVar[i].terms[j].Name == Editor.metagraph.Edges[index_max_znach].EndVertex.Name)
                         {
                             defaz = FuzzyKnowledgeBase.Defazification(FKB.ListVar[i].terms[j], Editor.metagraph.Edges[index_max_znach].EndVertex.ZnachFaz);
+                            s = FKB.ListVar[i].terms[j].Name;
                         }
                     }
                     break;
                 }
             }
             double rezult = defaz;
-            string rez;
-            if (rezult <= 1)
+            string rez="";
+            if (rezult <= 0.5)
             {
-                rez = "підводний об’єкт";
+                rez = "0";
             }
-            else if (rezult >= 2 && rezult < 3)
+            else if (rezult >= 0.5)
             {
-                rez = " надводний об’єкт";
+                rez = "1";
             }
-            else
-            {
-                rez = "повітряний об’єкт";
-            }
-            return /*"Ймовірність відповіді: " + Editor.metagraph.Edges[index_max_znach].EndVertex.ZnachFaz +*/ " Тип: " + defaz;
+            return /*"Ймовірність відповіді: " + Editor.metagraph.Edges[index_max_znach].EndVertex.ZnachFaz +*/ " Результат: " + rezult + " " + s ;
         }
         public void SetShortNameLV()
         {
