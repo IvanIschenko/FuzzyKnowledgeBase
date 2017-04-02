@@ -17,7 +17,8 @@ namespace WebApplication1.FuzzyLogicBase
         public static MainWindowVM Editor = new MainWindowVM();
         public static double Defazification (Term term, double y)
         {
-            return y * (term.b - term.a) + term.a;
+            //return y * (term.b - term.a) + term.a; діч
+            return term.a + (term.c - term.a) / 2;
         }
         public FuzzyKnowledgeBase FormFKBFromFile(string FileType, string PathToFile)
         {
