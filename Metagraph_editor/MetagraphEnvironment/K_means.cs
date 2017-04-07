@@ -23,6 +23,11 @@ namespace L.Algorithms.Clustering
         public List<MultiDimensionalVector> Elements { get; set; }
         public int ClusterCount;
         public float ExponentWeight;
+
+        public static string Trianle = "Трикутна";
+        public static string Gaussian = "Гаусівська";
+        public static string Trapeze = "Трапеція";
+
         public List<MultiDimensionalVector> Centroids { get; set; }
         public static List<Cluster> Clusters { get; set; }
 
@@ -348,21 +353,19 @@ namespace L.Algorithms.Clustering
                 List<Term> term = new List<Term>();
                 Rule OneRule = new Rule(ID, null, term, 0);
 
-                //Console.WriteLine((i + 1) + "st rule: ");
                 for (int j = 0; j < countColumnData - 1; j++)
                 {
                     Term t = new Term(ID, null, null);
-                    //Console.Write(NamesOfTermsDataFromFile.ElementAt(j) + " = ");
                     t.NameLP = NamesOfTermsDataFromFile.ElementAt(j);  // write LP
-                    if (typeFP == "Трикутна")
+                    if (typeFP == Trianle)
                     {
                         t.ProverkTruk = true;
                     }
-                    else if (typeFP == "Гаусівська")
+                    else if (typeFP == Gaussian)
                     {
                         t.ProverGaus = true;
                     }
-                    else if (typeFP == "Трапеція")
+                    else if (typeFP == Trapeze)
                     {
                         t.ProverkTrap = true;
                     }
@@ -370,7 +373,6 @@ namespace L.Algorithms.Clustering
                     {
                         if (k + 1 >= NumbersOfZonesOneLP)
                         {
-                            //Console.Write(NameOfTerms.ElementAt(NumbersOfZonesOneLP - 1));
                             t.Name = NameOfTerms.ElementAt(NumbersOfZonesOneLP - 1);  // write term;
                             t.WeightOfTerm = WeightOfTerms.ElementAt(NumbersOfZonesOneLP - 1);
                             OneRule.Antecedents.Add(t);
@@ -379,7 +381,6 @@ namespace L.Algorithms.Clustering
                         }
                         else if (ValueIntervalTerm[j, k] <= Clusters.ElementAt(i).Centroid.ElementAt(j) && ValueIntervalTerm[j, k + 1] >= Clusters.ElementAt(i).Centroid.ElementAt(j))
                         {
-                            //Console.Write(NameOfTerms.ElementAt(k));
                             t.Name = NameOfTerms.ElementAt(k);  // write term;
                             t.WeightOfTerm = WeightOfTerms.ElementAt(k);
                             OneRule.Antecedents.Add(t);
@@ -387,19 +388,16 @@ namespace L.Algorithms.Clustering
                             break;
                         }
                     }
-                    //Console.Write(" and ");
                 }
 
                 Term term_conseq = new Term(ID, null, null);
                 term_conseq.NameLP = NamesOfTermsDataFromFile.ElementAt(countColumnData - 1);
 
-                //Console.WriteLine("\n than " + NamesOfTermsDataFromFile.ElementAt(countColumnData - 1) + ": ");
                 for (int p = 0; p < countColumnData; p++)
                 {
                     double a = Clusters.ElementAt(i).Centroid.ElementAt(countColumnData - 1);
                     if (p + 2 > NumbersOfZonesOneLP)
                     {
-                        //Console.Write(NameOfTerms.ElementAt(p - 1));
                         term_conseq.Name = NameOfTerms.ElementAt(p - 1);
                         term_conseq.WeightOfTerm = WeightOfTerms.ElementAt(p - 1);
                         NameOfTermsByWords[p, countColumnData - 1] = NameOfTerms.ElementAt(p - 1);
@@ -407,7 +405,6 @@ namespace L.Algorithms.Clustering
                     }
                     else if (p + 1 == countColumnData)
                     {
-                        //Console.Write(NameOfTerms.ElementAt(p)); // Clusters.ElementAt(i).Centroid.ElementAt(Clusters.Count - 1)
                         term_conseq.Name = NameOfTerms.ElementAt(p);
                         term_conseq.WeightOfTerm = WeightOfTerms.ElementAt(p);
                         NameOfTermsByWords[p, countColumnData - 1] = NameOfTerms.ElementAt(p);
@@ -415,7 +412,6 @@ namespace L.Algorithms.Clustering
                     }
                     else if ((ValueIntervalTerm[countColumnData - 1, p] <= Clusters.ElementAt(i).Centroid.ElementAt(countColumnData - 1) && ValueIntervalTerm[countColumnData - 1, p + 1] >= Clusters.ElementAt(i).Centroid.ElementAt(countColumnData - 1)) && p + 1 == NumbersOfZonesOneLP)
                     {
-                       // Console.Write(NameOfTerms.ElementAt(p + 1));
                         term_conseq.Name = NameOfTerms.ElementAt(p + 1);
                         term_conseq.WeightOfTerm = WeightOfTerms.ElementAt(p + 1);
                         NameOfTermsByWords[p, countColumnData - 1] = NameOfTerms.ElementAt(p + 1);
@@ -423,7 +419,6 @@ namespace L.Algorithms.Clustering
                     }
                     else if (ValueIntervalTerm[countColumnData - 1, p] <= Clusters.ElementAt(i).Centroid.ElementAt(countColumnData - 1) && ValueIntervalTerm[countColumnData - 1, p + 1] >= Clusters.ElementAt(i).Centroid.ElementAt(countColumnData - 1))
                     {
-                        //Console.Write(NameOfTerms.ElementAt(p));
                         term_conseq.Name = NameOfTerms.ElementAt(p);
                         term_conseq.WeightOfTerm = WeightOfTerms.ElementAt(p);
                         NameOfTermsByWords[p, countColumnData - 1] = NameOfTerms.ElementAt(p);
@@ -434,7 +429,7 @@ namespace L.Algorithms.Clustering
                 FKB.ListOfRule.Add(OneRule);
             }
 
-            for (int index = 0; index < countColumnData; index++)  // Запись без повторений возможных значений (словами) термов у ЛП. Для вывода.
+            for (int index = 0; index < countColumnData; index++)  
             {
                 NameOfTermsByWordsWhithoutRepeat[0, index] = NameOfTermsByWords[0, index];
                 int CounterWithoutRepeatInArray = 1, Checker = 0, IndexInArray = 1;
