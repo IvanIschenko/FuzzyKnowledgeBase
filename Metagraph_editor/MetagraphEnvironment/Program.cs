@@ -386,7 +386,7 @@ namespace Functions
 
             if (counterFoRowDataFromFile == 0)
             {
-                for (Row = 1; sheet.GetRow(Row).GetCell(0) != null; Row++)  // подсчет количества строк в файле
+                for (Row = 1; sheet.GetRow(Row) != null && sheet.GetRow(Row).GetCell(0) != null; Row++)  // подсчет количества строк в файле
                 {
                     counterFoRowDataFromFile++;
                 }

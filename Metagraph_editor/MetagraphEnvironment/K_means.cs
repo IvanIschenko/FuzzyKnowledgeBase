@@ -243,49 +243,6 @@ namespace L.Algorithms.Clustering
             }
         }
 
-        //рисование кластеров для двухмерного случая
-        //для одномерного задать у-константой
-        /*public void DrawClusters(int iteration, string filePath)
-        {
-            int radius = 3;
-            int x = 0;
-            const int y = 100;
-
-
-            Bitmap img = new Bitmap(1000, 1000);
-
-            Graphics ClusterPath = Graphics.FromImage(img);
-            ClusterPath.Clear(Color.SkyBlue); //skyBlue
-
-            //  Pen PenCentroid = new Pen(FillColor.FromArgb((byte)rand.Next(255), (byte)rand.Next(255), (byte)rand.Next(255), 0), 5);
-            Pen PenCentroid = new Pen(Color.FromArgb(0, 255, 255, 0), 5);
-
-            foreach (var c in this.Clusters)
-            {
-                System.Drawing.Drawing2D.GraphicsPath points = new System.Drawing.Drawing2D.GraphicsPath();
-                Pen PenElements = new Pen(c.color, 5);
-                x = (int)c.Centroid.ElementAt(0);
-                //y = (int)c.Centroid.ElementAt(1);
-                //y = 100;
-                points.AddEllipse(x, y, radius + 5, radius + 5);
-                ClusterPath.DrawPath(PenCentroid, points);
-                points.Reset();
-                foreach (var el in c.Elements)
-                {
-                    x = (int)el.ElementAt(0);
-                    //y = (int)el.ElementAt(1);
-                    // y = 100;
-                    points.AddEllipse(x, y, radius, radius);
-                }
-                ClusterPath.DrawPath(PenElements, points);
-            }
-
-            String imagePathFile = filePath + "/" + iteration + ".png";
-            //    Uri imageUri = new Uri(imagePathFile);
-            img.Save(imagePathFile, System.Drawing.Imaging.ImageFormat.Png);
-
-        }*/
-
         public void Clustering(int ClusterCount, double epsilon)  //КЛАСТЕРИЗАЦИЯ
         {
             int iteration = 0;
@@ -380,33 +337,6 @@ namespace L.Algorithms.Clustering
 
             return ValueGausFP;
         }
-
-        //public void LaplasFunction(double x, int countRowData)
-        //{
-        //    double SummDenominator = 0;
-        //    double SummNumeral = 0;
-        //    double sigm = 0;
-        //    double ValueLaplassFP = 0;
-        //    ValueLaplassFPForEachTerm = new double[ClusterCount, countRowData - 1];
-
-        //    for (int i = 0; i < ClusterCount; i++)
-        //    {
-        //        for (int j = 0; j < countRowData - 1; j++)
-        //        {
-        //            double a = Clusters.ElementAt(i).Centroid.ElementAt(j);
-        //            for (int k = 0; k < Elements.Count; ++k)
-        //            {
-        //                SummDenominator += Math.Pow(MembershipMatrixTemp[k, i], 2);
-        //                SummNumeral += Math.Pow(MembershipMatrixTemp[k, i], 2) * Math.Pow(ElementsMatrix[k, j] - Clusters.ElementAt(i).Centroid.ElementAt(j), 2);
-        //            }
-        //            sigm = SummNumeral / SummDenominator;
-        //            //Console.WriteLine("Значение sigm: " + sigm);
-        //            ValueLaplassFP = Math.Exp(-((x - a) / sigm));
-        //            //Console.WriteLine("Значение Гаус ФП: " + ValueGausFP);
-        //            ValueLaplassFPForEachTerm[i, j] = ValueLaplassFP;
-        //        }
-        //    }
-        //}
 
         public void FindRulesModelTypeMamdani(List<string> NamesOfTermsDataFromFile, double[,] ValueIntervalTerm, List<string> NameOfTerms, int countColumnData, int NumbersOfZonesOneLP, int counterFoRowDataFromFile, string typeFP, List<int> WeightOfTerms, FuzzyKnowledgeBase FKB)
         {
