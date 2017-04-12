@@ -140,7 +140,7 @@ namespace WebApplication1.FuzzyLogicBase
 
                 if (vhid >= b && vhid <= c)
                 {
-                    return (c - vhid) / (c - b);
+                    return 1;
                 }
                 if (vhid > c)
                 {
@@ -154,7 +154,7 @@ namespace WebApplication1.FuzzyLogicBase
                 }
                 if (vhid >= a && vhid <= b)
                 {
-                    return (vhid - a) / (b - a);
+                    return 1;
                 }
 
                 if (vhid >= b && vhid <= c)
