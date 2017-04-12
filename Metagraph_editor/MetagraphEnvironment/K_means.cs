@@ -23,6 +23,11 @@ namespace L.Algorithms.Clustering
         public List<MultiDimensionalVector> Elements { get; set; }
         public int ClusterCount;
         public float ExponentWeight;
+
+        public static string Trianle = "Трикутна";
+        public static string Gaussian = "Гаусівська";
+        public static string Trapeze = "Трапеція";
+
         public List<MultiDimensionalVector> Centroids { get; set; }
         public static List<Cluster> Clusters { get; set; }
 
@@ -243,49 +248,6 @@ namespace L.Algorithms.Clustering
             }
         }
 
-        //рисование кластеров для двухмерного случая
-        //для одномерного задать у-константой
-        /*public void DrawClusters(int iteration, string filePath)
-        {
-            int radius = 3;
-            int x = 0;
-            const int y = 100;
-
-
-            Bitmap img = new Bitmap(1000, 1000);
-
-            Graphics ClusterPath = Graphics.FromImage(img);
-            ClusterPath.Clear(Color.SkyBlue); //skyBlue
-
-            //  Pen PenCentroid = new Pen(FillColor.FromArgb((byte)rand.Next(255), (byte)rand.Next(255), (byte)rand.Next(255), 0), 5);
-            Pen PenCentroid = new Pen(Color.FromArgb(0, 255, 255, 0), 5);
-
-            foreach (var c in this.Clusters)
-            {
-                System.Drawing.Drawing2D.GraphicsPath points = new System.Drawing.Drawing2D.GraphicsPath();
-                Pen PenElements = new Pen(c.color, 5);
-                x = (int)c.Centroid.ElementAt(0);
-                //y = (int)c.Centroid.ElementAt(1);
-                //y = 100;
-                points.AddEllipse(x, y, radius + 5, radius + 5);
-                ClusterPath.DrawPath(PenCentroid, points);
-                points.Reset();
-                foreach (var el in c.Elements)
-                {
-                    x = (int)el.ElementAt(0);
-                    //y = (int)el.ElementAt(1);
-                    // y = 100;
-                    points.AddEllipse(x, y, radius, radius);
-                }
-                ClusterPath.DrawPath(PenElements, points);
-            }
-
-            String imagePathFile = filePath + "/" + iteration + ".png";
-            //    Uri imageUri = new Uri(imagePathFile);
-            img.Save(imagePathFile, System.Drawing.Imaging.ImageFormat.Png);
-
-        }*/
-
         public void Clustering(int ClusterCount, double epsilon)  //КЛАСТЕРИЗАЦИЯ
         {
             int iteration = 0;
@@ -381,33 +343,6 @@ namespace L.Algorithms.Clustering
             return ValueGausFP;
         }
 
-        //public void LaplasFunction(double x, int countRowData)
-        //{
-        //    double SummDenominator = 0;
-        //    double SummNumeral = 0;
-        //    double sigm = 0;
-        //    double ValueLaplassFP = 0;
-        //    ValueLaplassFPForEachTerm = new double[ClusterCount, countRowData - 1];
-
-        //    for (int i = 0; i < ClusterCount; i++)
-        //    {
-        //        for (int j = 0; j < countRowData - 1; j++)
-        //        {
-        //            double a = Clusters.ElementAt(i).Centroid.ElementAt(j);
-        //            for (int k = 0; k < Elements.Count; ++k)
-        //            {
-        //                SummDenominator += Math.Pow(MembershipMatrixTemp[k, i], 2);
-        //                SummNumeral += Math.Pow(MembershipMatrixTemp[k, i], 2) * Math.Pow(ElementsMatrix[k, j] - Clusters.ElementAt(i).Centroid.ElementAt(j), 2);
-        //            }
-        //            sigm = SummNumeral / SummDenominator;
-        //            //Console.WriteLine("Значение sigm: " + sigm);
-        //            ValueLaplassFP = Math.Exp(-((x - a) / sigm));
-        //            //Console.WriteLine("Значение Гаус ФП: " + ValueGausFP);
-        //            ValueLaplassFPForEachTerm[i, j] = ValueLaplassFP;
-        //        }
-        //    }
-        //}
-
         public void FindRulesModelTypeMamdani(List<string> NamesOfTermsDataFromFile, double[,] ValueIntervalTerm, List<string> NameOfTerms, int countColumnData, int NumbersOfZonesOneLP, int counterFoRowDataFromFile, string typeFP, List<int> WeightOfTerms, FuzzyKnowledgeBase FKB)
         {
             NameOfTermsByWords = new string[counterFoRowDataFromFile, countColumnData];
@@ -418,21 +353,19 @@ namespace L.Algorithms.Clustering
                 List<Term> term = new List<Term>();
                 Rule OneRule = new Rule(ID, null, term, 0);
 
-                //Console.WriteLine((i + 1) + "st rule: ");
                 for (int j = 0; j < countColumnData - 1; j++)
                 {
                     Term t = new Term(ID, null, null);
-                    //Console.Write(NamesOfTermsDataFromFile.ElementAt(j) + " = ");
                     t.NameLP = NamesOfTermsDataFromFile.ElementAt(j);  // write LP
-                    if (typeFP == "Трикутна")
+                    if (typeFP == Trianle)
                     {
                         t.ProverkTruk = true;
                     }
-                    else if (typeFP == "Гаусівська")
+                    else if (typeFP == Gaussian)
                     {
                         t.ProverGaus = true;
                     }
-                    else if (typeFP == "Трапеція")
+                    else if (typeFP == Trapeze)
                     {
                         t.ProverkTrap = true;
                     }
@@ -440,7 +373,6 @@ namespace L.Algorithms.Clustering
                     {
                         if (k + 1 >= NumbersOfZonesOneLP)
                         {
-                            //Console.Write(NameOfTerms.ElementAt(NumbersOfZonesOneLP - 1));
                             t.Name = NameOfTerms.ElementAt(NumbersOfZonesOneLP - 1);  // write term;
                             t.WeightOfTerm = WeightOfTerms.ElementAt(NumbersOfZonesOneLP - 1);
                             OneRule.Antecedents.Add(t);
@@ -449,7 +381,6 @@ namespace L.Algorithms.Clustering
                         }
                         else if (ValueIntervalTerm[j, k] <= Clusters.ElementAt(i).Centroid.ElementAt(j) && ValueIntervalTerm[j, k + 1] >= Clusters.ElementAt(i).Centroid.ElementAt(j))
                         {
-                            //Console.Write(NameOfTerms.ElementAt(k));
                             t.Name = NameOfTerms.ElementAt(k);  // write term;
                             t.WeightOfTerm = WeightOfTerms.ElementAt(k);
                             OneRule.Antecedents.Add(t);
@@ -457,19 +388,16 @@ namespace L.Algorithms.Clustering
                             break;
                         }
                     }
-                    //Console.Write(" and ");
                 }
 
                 Term term_conseq = new Term(ID, null, null);
                 term_conseq.NameLP = NamesOfTermsDataFromFile.ElementAt(countColumnData - 1);
 
-                //Console.WriteLine("\n than " + NamesOfTermsDataFromFile.ElementAt(countColumnData - 1) + ": ");
                 for (int p = 0; p < countColumnData; p++)
                 {
                     double a = Clusters.ElementAt(i).Centroid.ElementAt(countColumnData - 1);
                     if (p + 2 > NumbersOfZonesOneLP)
                     {
-                        //Console.Write(NameOfTerms.ElementAt(p - 1));
                         term_conseq.Name = NameOfTerms.ElementAt(p - 1);
                         term_conseq.WeightOfTerm = WeightOfTerms.ElementAt(p - 1);
                         NameOfTermsByWords[p, countColumnData - 1] = NameOfTerms.ElementAt(p - 1);
@@ -477,7 +405,6 @@ namespace L.Algorithms.Clustering
                     }
                     else if (p + 1 == countColumnData)
                     {
-                        //Console.Write(NameOfTerms.ElementAt(p)); // Clusters.ElementAt(i).Centroid.ElementAt(Clusters.Count - 1)
                         term_conseq.Name = NameOfTerms.ElementAt(p);
                         term_conseq.WeightOfTerm = WeightOfTerms.ElementAt(p);
                         NameOfTermsByWords[p, countColumnData - 1] = NameOfTerms.ElementAt(p);
@@ -485,7 +412,6 @@ namespace L.Algorithms.Clustering
                     }
                     else if ((ValueIntervalTerm[countColumnData - 1, p] <= Clusters.ElementAt(i).Centroid.ElementAt(countColumnData - 1) && ValueIntervalTerm[countColumnData - 1, p + 1] >= Clusters.ElementAt(i).Centroid.ElementAt(countColumnData - 1)) && p + 1 == NumbersOfZonesOneLP)
                     {
-                       // Console.Write(NameOfTerms.ElementAt(p + 1));
                         term_conseq.Name = NameOfTerms.ElementAt(p + 1);
                         term_conseq.WeightOfTerm = WeightOfTerms.ElementAt(p + 1);
                         NameOfTermsByWords[p, countColumnData - 1] = NameOfTerms.ElementAt(p + 1);
@@ -493,7 +419,6 @@ namespace L.Algorithms.Clustering
                     }
                     else if (ValueIntervalTerm[countColumnData - 1, p] <= Clusters.ElementAt(i).Centroid.ElementAt(countColumnData - 1) && ValueIntervalTerm[countColumnData - 1, p + 1] >= Clusters.ElementAt(i).Centroid.ElementAt(countColumnData - 1))
                     {
-                        //Console.Write(NameOfTerms.ElementAt(p));
                         term_conseq.Name = NameOfTerms.ElementAt(p);
                         term_conseq.WeightOfTerm = WeightOfTerms.ElementAt(p);
                         NameOfTermsByWords[p, countColumnData - 1] = NameOfTerms.ElementAt(p);
@@ -504,7 +429,7 @@ namespace L.Algorithms.Clustering
                 FKB.ListOfRule.Add(OneRule);
             }
 
-            for (int index = 0; index < countColumnData; index++)  // Запись без повторений возможных значений (словами) термов у ЛП. Для вывода.
+            for (int index = 0; index < countColumnData; index++)  
             {
                 NameOfTermsByWordsWhithoutRepeat[0, index] = NameOfTermsByWords[0, index];
                 int CounterWithoutRepeatInArray = 1, Checker = 0, IndexInArray = 1;
